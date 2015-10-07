@@ -7,32 +7,19 @@ auth = tweepy.auth.OAuthHandler(settings.consumer_key, settings.consumer_secret)
 auth.set_access_token(settings.access_token, settings.access_secret)
 api = tweepy.API(auth,wait_on_rate_limit=False, wait_on_rate_limit_notify=True, retry_count=3, retry_delay=60)
 
-list= open('/Users/kvivekanandan/Desktop/ASU/CSE_598_Social_Media_Mining/Project/1_Submission/list.txt','w')
-
 if(api.verify_credentials):
     print 'We sucessfully logged in'
 
-file = open('dataset_nodes.txt','a')
 me = api.me()
 print (me.id, me.screen_name)
 print ("rate limit status: " + str(api.rate_limit_status()))
-file.write(str(me.id) + " " + me.screen_name + '\n')
-# count = 0
-# myfriends = api.friends_ids(me.id)
-# for f in myfriends:
-    # name = api.get_user(f).screen_name
-    # print (f , name)
-    # file.write(str(f) + " " + name + '\n')
-    # count = count + 1
-file.close()
-list.close()
 
 file = open('bfs_nodes.txt','w')
 q = Queue.Queue()
 q.put(me.id)
 samplefile = open('samples.txt','w')
 edgeList = open('edgeList.txt','w')
-file.write(str(me.id) + ","+ str(0))
+file.write(str(me.id) + ","+ str(0) + '\n')
 
 def bfs():
     visited_node_count =1
