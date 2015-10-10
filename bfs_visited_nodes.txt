@@ -1,10 +1,3 @@
-/Users/kvivekanandan/Desktop/ASU/CSE_598_Social_Media_Mining/Project/1_Submission/crawler/venv/bin/python "/Applications/PyCharm CE.app/Contents/helpers/pydev/pydevd.py" --multiproc --client 127.0.0.1 --port 54304 --file /Users/kvivekanandan/Desktop/ASU/CSE_598_Social_Media_Mining/Project/1_Submission/crawler/user_stream.py
-Connected to pydev debugger (build 141.2569)
-pydev debugger: process 52429 is connecting
-
-We sucessfully logged in api1
-We sucessfully logged in api2
-me: 226229231
 visiting 226229231 which has 705 friends visited count: 2 current queue size: 705
 visiting 372480639 which has 461 friends visited count: 3 current queue size: 1165
 visiting 53830401 which has 129 friends visited count: 4 current queue size: 1293
@@ -505,8 +498,7 @@ visiting 24889586 which has 2840 friends visited count: 498 current queue size: 
 visiting 261162150 which has 528 friends visited count: 499 current queue size: 205884
 visiting 276445549 which has 2001 friends visited count: 500 current queue size: 206883
 visiting 561335546 which has 106 friends visited count: 501 current queue size: 206988
-visiting 64650016
-sleeping...
+visiting 64650016 sleeping... 
 visiting 14214982 which has 539 friends visited count: 502 current queue size: 207525
 visiting 238034157 which has 1 friends visited count: 503 current queue size: 207525
 visiting 347861221 which has 0 friends visited count: 504 current queue size: 207524
@@ -523,8 +515,7 @@ visiting 26074603 which has 907 friends visited count: 514 current queue size: 2
 visiting 127569781 which has 4642 friends visited count: 515 current queue size: 212026
 visiting 5956982 which has 510 friends visited count: 516 current queue size: 212535
 visiting 449563624 which has 35 friends visited count: 517 current queue size: 212569
-visiting 47062869
-sleeping...
+visiting 47062869 sleeping... 
 visiting 144480494 which has 5 friends visited count: 518 current queue size: 212572
 visiting 815674142 which has 113 friends visited count: 519 current queue size: 212684
 visiting 14749606 which has 25 friends visited count: 520 current queue size: 212708
@@ -545,8 +536,7 @@ visiting 74543 which has 1749 friends visited count: 534 current queue size: 217
 visiting 17503180 which has 338 friends visited count: 535 current queue size: 217708
 visiting 251048897 which has 364 friends visited count: 536 current queue size: 218071
 visiting 215155315 which has 2022 friends visited count: 537 current queue size: 219070
-visiting 110949597
-sleeping...
+visiting 110949597 sleeping... 
 visiting 27069499 which has 559 friends visited count: 538 current queue size: 219627
 visiting 152959782 which has 269 friends visited count: 539 current queue size: 219895
 visiting 207171775 which has 115 friends visited count: 540 current queue size: 220009
@@ -601,8 +591,7 @@ visiting 14677919 which has 347 friends visited count: 588 current queue size: 2
 visiting 58545637 which has 6 friends visited count: 589 current queue size: 239309
 visiting 989 which has 1153 friends visited count: 590 current queue size: 240308
 visiting 42226885 which has 254 friends visited count: 591 current queue size: 240561
-visiting 121247245
-sleeping...
+visiting 121247245 sleeping... 
 visiting 14328066 which has 5000 friends visited count: 592 current queue size: 241559
 visiting 27206563 which has 73 friends visited count: 593 current queue size: 241631
 visiting 409867589 which has 584 friends visited count: 594 current queue size: 242214
@@ -651,8 +640,7 @@ visiting 11518842 which has 29 friends visited count: 636 current queue size: 26
 visiting 972651 which has 2829 friends visited count: 637 current queue size: 262782
 visiting 749963 which has 366 friends visited count: 638 current queue size: 263147
 visiting 15492359 which has 395 friends visited count: 639 current queue size: 263541
-visiting 93640121
-sleeping...
+visiting 93640121 sleeping... 
 visiting 108669948 which has 382 friends visited count: 640 current queue size: 263921
 visiting 816653 which has 732 friends visited count: 641 current queue size: 264652
 visiting 113425681 which has 0 friends visited count: 642 current queue size: 264651
@@ -735,8 +723,7 @@ visiting 69426451 which has 537 friends visited count: 718 current queue size: 3
 visiting 11113 which has 3314 friends visited count: 719 current queue size: 304102
 visiting 10755542 which has 877 friends visited count: 720 current queue size: 304978
 visiting 34561199 which has 1291 friends visited count: 721 current queue size: 305977
-visiting 3666586997
-sleeping...
+visiting 3666586997 sleeping... 
 visiting 47746264 which has 308 friends visited count: 722 current queue size: 306283
 visiting 24277551 which has 1765 friends visited count: 723 current queue size: 307282
 visiting 27629038 which has 1860 friends visited count: 724 current queue size: 308281
@@ -744,15 +731,13 @@ visiting 13010422 which has 2871 friends visited count: 725 current queue size: 
 visiting 29436001 which has 648 friends visited count: 726 current queue size: 309927
 visiting 1025247380 which has 129 friends visited count: 727 current queue size: 310055
 visiting 14995358 which has 251 friends visited count: 728 current queue size: 310305
-visiting 3686713456
-sleeping...
+visiting 3686713456 sleeping... 
 visiting 19127782 which has 377 friends visited count: 729 current queue size: 310680
 visiting 15033360 which has 1247 friends visited count: 730 current queue size: 311679
 visiting 29264269 which has 302 friends visited count: 731 current queue size: 311980
 visiting 6446742 which has 5000 friends visited count: 732 current queue size: 312979
 visiting 110276487 which has 447 friends visited count: 733 current queue size: 313425
-visiting 3428102007
-sleeping...
+visiting 3428102007 sleeping... 
 visiting 201568456 which has 196 friends visited count: 734 current queue size: 313619
 visiting 14157659 which has 665 friends visited count: 735 current queue size: 314283
 visiting 14609434 which has 662 friends visited count: 736 current queue size: 314944
@@ -768,10 +753,8 @@ visiting 242818718 which has 817 friends visited count: 745 current queue size: 
 visiting 904954086 which has 175 friends visited count: 746 current queue size: 320248
 visiting 193929442 which has 287 friends visited count: 747 current queue size: 320534
 visiting 25073877 which has 44 friends visited count: 748 current queue size: 320577
-visiting 2795254363
-sleeping...
-visiting 189063554
-sleeping...
+visiting 2795254363 sleeping... 
+visiting 189063554 sleeping... 
 visiting 14749056 which has 339 friends visited count: 749 current queue size: 320913
 visiting 2719829002 which has 74 friends visited count: 750 current queue size: 320986
 visiting 217158161 which has 176 friends visited count: 751 current queue size: 321161
@@ -781,8 +764,7 @@ visiting 2363571 which has 985 friends visited count: 754 current queue size: 32
 visiting 28510488 which has 452 friends visited count: 755 current queue size: 324458
 visiting 3281956568 which has 16 friends visited count: 756 current queue size: 324473
 visiting 54653517 which has 1296 friends visited count: 757 current queue size: 325472
-visiting 3274940484
-sleeping...
+visiting 3274940484 sleeping... 
 visiting 516778814 which has 232 friends visited count: 758 current queue size: 325702
 visiting 20418287 which has 688 friends visited count: 759 current queue size: 326389
 visiting 2217099931 which has 3 friends visited count: 760 current queue size: 326391
@@ -811,8 +793,7 @@ visiting 14486697 which has 930 friends visited count: 782 current queue size: 3
 visiting 6805212 which has 442 friends visited count: 783 current queue size: 339280
 visiting 258776272 which has 710 friends visited count: 784 current queue size: 339989
 visiting 14860415
-Rate limit reached. Sleeping for: 529
-sleeping...
+Rate limit reached. Sleeping for: 529 sleeping... 
 visiting 2139211 which has 1070 friends visited count: 785 current queue size: 340987
 visiting 156417821 which has 807 friends visited count: 786 current queue size: 341793
 visiting 550644052 which has 199 friends visited count: 787 current queue size: 341991
@@ -1029,5 +1010,3 @@ visiting 11407672 which has 529 friends visited count: 997 current queue size: 4
 visiting 6604912 which has 860 friends visited count: 998 current queue size: 485664
 visiting 1152279248 which has 111 friends visited count: 999 current queue size: 485774
 visiting 14087951 which has 1625 friends visited count: 1000 current queue size: 486773
-
-Process finished with exit code 0
