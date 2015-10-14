@@ -3,7 +3,6 @@ import time
 import settings
 import settings_skk
 import Queue
-import networkx as nx
 
 auth = tweepy.auth.OAuthHandler(settings.consumer_key, settings.consumer_secret)
 auth.set_access_token(settings.access_token, settings.access_secret)
@@ -15,23 +14,22 @@ api2=tweepy.API(auth2,wait_on_rate_limit=True, wait_on_rate_limit_notify=True, r
 
 
 if(api.verify_credentials):
-    print 'We sucessfully logged in api1'
+    print 'sucessfully logged in api1 to crawl'
 
 if(api2.verify_credentials):
-    print 'We sucessfully logged in api2'
+    print 'sucessfully logged in api2 to crawl'
 
 me = api.me()
-print "me: " + str(me["id"])
+print "bfs root: " + str(me["id"])
 results = api.rate_limit_status()
 results2 = api2.rate_limit_status()
 
-
 def crawl():
-    file = open('bfs_nodes_final.txt','w')
+    file = open('P1_Deliverables/dataset_bfs_trace.txt','w')
     q = Queue.Queue()
     q.put(me["id"])
-    samplefile = open('samples_final.txt','w')
-    edgeList = open('edgeList_final.txt','w')
+    samplefile = open('P1_Deliverables/3_sampled.txt','w')
+    edgeList = open('P1_Deliverables/2_edgeList.txt','w')
     file.write(str(me["id"]) + ","+ str(0) + '\n')
 
     def bfs():
@@ -40,7 +38,6 @@ def crawl():
             id = q.get()
             print ("visiting " + str(id))
             try:
-                # nodeFriends = (1,2)
                 while True:
                     print "checking api1"
                     results = api.rate_limit_status()
@@ -59,12 +56,12 @@ def crawl():
                             break
                         else:
                             print "going to sleep"
-                            time.sleep(60 * 1)
+                            time.sleep(60 * 2)
                 print "fetching friends ids.."
                 nodeFriends = use_api.friends_ids(id)
                 print ("which has " + str(len(nodeFriends["ids"])) + " friends")
                 if len(nodeFriends['ids'])>1000:
-                    samplefile.write(str(id) + ","+ str(visited_node_count) + "," + str(len(nodeFriends["ids"]))+'\n')
+                    samplefile.write(str(id) + "," + str(len(nodeFriends["ids"]))+'\n')
                 count = 0
                 for f in nodeFriends["ids"]:
                     if count < 1000:
@@ -80,9 +77,9 @@ def crawl():
                 while not q.empty():
                     queueBackup.write(str(q.get())+ '\n')
                 queueBackup.close()
-                time.sleep(60 * 15)
+                time.sleep(60 * 2)
                 lines = [line.rstrip('\n') for line in
-         open('/Users/kvivekanandan/Desktop/ASU/CSE_598_Social_Media_Mining/Project/1_Submission/crawler/queueBackup.txt')]
+         open('queueBackup.txt')]
                 for line in lines:
                     q.put(line)
                 continue
@@ -100,34 +97,67 @@ def getUserNameById(id):
     user = api.get_user(id)
     print (str(id) + ", " + str(user.screen_name))
 
-def readEdgeListFromFile():
-    lines = [line.rstrip('\n') for line in
-         open('/Users/kvivekanandan/Desktop/ASU/CSE_598_Social_Media_Mining/Project/1_Submission/crawler/edgeList_final.txt')]
-    return lines
-
-def createGraphFromEdgeList(lines):
-    G = nx.parse_edgelist(lines, delimiter=',', nodetype=int)
-    return G
-
-def anonymize():
+def anonymize_dataset_trace():
     lines = [line.strip('\n') for line in
-         open('/Users/kvivekanandan/Desktop/ASU/CSE_598_Social_Media_Mining/Project/1_Submission/crawler/Dataset/bfs_nodes_all_anonymized.txt')]
-    file = open('./Anonymous_Dataset/bfs_nodes_all_anonymized.txt','w')
+         open('P1_Deliverables/dataset_bfs_trace.txt')]
+    file_dataset = open('P1_Deliverables/1_dataset.txt','w')
+    file_anonymized_dataset = open('P1_Deliverables/1_anonymized_dataset.txt','w')
     count = 1
+    unique = set()
     for line in lines:
-        file.write(line + "," + str(count) + str('\n'))
-        count+=1
-    file.close()
+        line = line.split(',',1)[0]
+        if line not in unique:
+            unique.add(line)
+            file_dataset.write(line + str('\n'))
+            file_anonymized_dataset.write(line + "," + str(count) + str('\n'))
+            count+=1
+    file_dataset.close()
+    file_anonymized_dataset.close()
+
+def anonymize_dataset():
+    lines = [line.strip('\n') for line in open('P1_Deliverables/1_anonymized_dataset.txt')]
+    dict = {'key':'value'}
+    for line in lines:
+        line = line.split(',')
+        key = line[0]
+        value = line[1]
+        dict[key] = value
+    file_anonymized_sampled = open('P1_Deliverables/3_anonymized_sampled.txt','w')
+    lines_sampled = [line.strip('\n') for line in open('P1_Deliverables/3_sampled.txt')]
+    for line_sampled in lines_sampled:
+        line_sampled_node = line_sampled.split(',')
+        key_node = line_sampled_node[0]
+        count = line_sampled_node[1]
+        anon_node_value = dict[key_node]
+        file_anonymized_sampled.write(str(anon_node_value) + "," + str(count)+ str('\n'))
+    file_anonymized_sampled.close()
+    anonymize_edgelist(dict)
+
+def remove_trace_number():
+    lines = [line.strip('\n') for line in open('bfs_nodes_all.txt')]
+    file_bfs_trace = open('P1_Deliverables/dataset_bfs_trace.txt','w')
+    for line in lines:
+        line = line.split(',',1)[0]
+        file_bfs_trace.write(str(line) + '\n')
+    file_bfs_trace.close()
+
+def anonymize_edgelist(dict):
+    lines = [line.strip('\n') for line in open('P1_Deliverables/2_edgeList.txt')]
+    file_anonymized_edgeList = open('P1_Deliverables/2_anonymized_edgeList.txt','w')
+    for line in lines:
+        line = line.split(',')
+        key1 = line[0]
+        key2 = line[1]
+        file_anonymized_edgeList.write(str(dict[key1])+ "," + str(dict[key2]) + str('\n'))
+    file_anonymized_edgeList.close()
+
 
 #main
 
-#crawl()
-#anonymize()
-# lines = readEdgeListFromFile()
-# G = createGraphFromEdgeList(lines)
-# nodes = G.nodes()
-# print len(nodes[1189:len(nodes)])
-# getUserNames(nodes)
+crawl()
+anonymize_dataset_trace()
+anonymize_dataset()
+
 
 
 
