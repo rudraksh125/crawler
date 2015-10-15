@@ -18,17 +18,17 @@ def print_dictionary(dict):
 
 def degree_centrality(G):
     #degree_centrality
-    dictionary_centrality = nx.in_degree_centrality(directed_G)
+    dictionary_centrality = nx.in_degree_centrality(G)
     return dictionary_centrality
 
 def eigenvector_centrality(G):
     #eigenvector_centrality
-    dictionary_centrality = nx.eigenvector_centrality_numpy(directed_G)
+    dictionary_centrality = nx.eigenvector_centrality_numpy(G)
     return dictionary_centrality
 
 def pagerank_centrality(G):
     #pagerank
-    dictionary_centrality = nx.pagerank(directed_G)
+    dictionary_centrality = nx.pagerank(G)
     return dictionary_centrality
 
 def print_degree_sequences(G):
