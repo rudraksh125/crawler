@@ -81,6 +81,7 @@ def plot_out_degree_histogram(G):
     degree_list = list(G.out_degree().values())
 
     # compute and print average node degree
+    print "sum of out degree: " + str(sum(degree_list))
     avg_out_degree = float((sum(degree_list)*1.0)/n)
     print ("Avg.out Node Degree: %f" % (avg_out_degree))
 
@@ -90,17 +91,30 @@ def plot_out_degree_histogram(G):
      # generate x,y values for degree dist. scatterplot
     x_list = []
     y_list = []
+    list_tuples = []
+
+    #sorted_degree_hist = sorted(degree_hist, key=degree_hist.get())
     # print the degree and number of nodes that have that degree
     for degree,number_of_nodes in degree_hist.iteritems():
        # print ("%s : %s" % (degree,number_of_nodes))
+       t =  (degree, number_of_nodes)
+       list_tuples.append(t)
        if number_of_nodes > 0:
         x_list.append(degree)
         y_list.append(number_of_nodes)
 
+
+    x_list = []
+    y_list = []
+    sorted_js = sorted(list_tuples, key=lambda tup:tup[1], reverse=False)
+    for d,n in sorted_js:
+         if n > 0:
+            x_list.append(d)
+            y_list.append(n)
     # plot degree distribution
     #plt.scatter(x_list,y_list)
     #plt.show()
-    plt.plot(x_list,y_list,'b-')
+    plt.plot(x_list,y_list,'-b')
     plt.yscale('log')
     plt.xscale('log')
     plt.ylabel('Number of nodes')
