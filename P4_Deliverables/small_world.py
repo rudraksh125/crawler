@@ -10,7 +10,7 @@ num_nodes = graph.GetNodes()
 
 c = 1.898  # Average degree.
 Cp = 0.067
-C0 = 0.75*(c-2)/(c-1)
+C0 = 0.75
 b= 1-(Cp/C0)**0.3333
 
 small_world_graph = snap.GenSmallWorld(num_nodes,int(c),b)
