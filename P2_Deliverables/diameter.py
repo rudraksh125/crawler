@@ -11,3 +11,8 @@ test_nodes = 500
 
 diameter = snap.GetBfsFullDiam(G,test_nodes,True)
 print "Diameter of the network= %f" % (diameter)
+
+"""
+OUTPUT:
+Diameter of the network= 7.000000
+"""
