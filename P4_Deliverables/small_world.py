@@ -8,8 +8,8 @@ graph = snap.TNGraph.Load(FIn)
 
 num_nodes = graph.GetNodes()
 
-c = 3.173  # Average degree.
-Cp = 0.0889
+c = 1.898  # Average degree.
+Cp = 0.067
 C0 = 0.75*(c-2)/(c-1)
 b= 1-(Cp/C0)**0.3333
 
