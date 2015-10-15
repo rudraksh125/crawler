@@ -1,4 +1,5 @@
 import networkx as nx
+import pandas as pd
 
 
 
@@ -23,10 +24,19 @@ def print_centralities(G, nodes, dc, eigc, pgc):
         print "{:<15} {:<8} {:<20} {:<20} {:<20}".format(str(node),str(G.in_degree(node)),str(dc[node]),str(eigc[node]),str(pgc[node]))
 
 #main
-directed_G = nx.read_graphml('networkx_graph.graphml')
+directed_G = nx.read_graphml('../networkx_graph.graphml')
 degreeCentrality = degree_centrality(directed_G)
 eigenVectorCentrality = eigenvector_centrality(directed_G)
 pageRankCentrality = pagerank_centrality(directed_G)
+
+df = pd.DataFrame({'dc':degreeCentrality})
+df.to_csv('dc.csv', index = False)
+
+df = pd.DataFrame({'eig':eigenVectorCentrality})
+df.to_csv('eig.csv', index=False)
+
+df = pd.DataFrame({'pr':pageRankCentrality})
+df.to_csv('pr.csv', index=False)
 
 s_dc = sorted(degreeCentrality,key= degreeCentrality.get, reverse=True)
 e_vc = sorted(eigenVectorCentrality,key= eigenVectorCentrality.get, reverse=True)

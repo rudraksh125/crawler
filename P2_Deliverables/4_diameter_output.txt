@@ -1,1 +1,1 @@
-triads 258509
+diameter 7

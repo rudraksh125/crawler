@@ -45,7 +45,7 @@ plt.show()
 
 avg_path_len = 0
 n = num_nodes * (num_nodes - 1)
-n_pairs = 20000
+n_pairs = 2000
 a1 = np.random.random_integers(0, num_nodes - 1, n_pairs)
 a2 = np.random.random_integers(0, num_nodes - 1, n_pairs)
 for i in range(n_pairs):

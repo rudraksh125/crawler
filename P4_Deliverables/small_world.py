@@ -8,7 +8,7 @@ graph = snap.TNGraph.Load(FIn)
 
 num_nodes = graph.GetNodes()
 
-c = 1.898  # Average degree.
+c = 2  # Average degree.
 Cp = 0.067
 C0 = 0.75
 b= 1-(Cp/C0)**0.3333
@@ -22,7 +22,7 @@ local_cluster_coefficient = 0
 
 for i in range(1, num_nodes):
     # Returns clustering coefficient of a particular node
-    local_cluster_coefficient += snap.GetNodeClustCf(graph, i)
+    local_cluster_coefficient += snap.GetNodeClustCf(small_world_graph, i)
 print "Local clustering coefficient = %f" % (local_cluster_coefficient * 1.0 / num_nodes)
 
 triangle_count = 0
@@ -30,7 +30,7 @@ triad_count = 0
 triad_vector = snap.TIntTrV()
 
 # Computes the number of open and closed triads for every node in Graph
-snap.GetTriads(graph, triad_vector)
+snap.GetTriads(small_world_graph, triad_vector)
 
 for triple in triad_vector:
     triangle_count += triple.Val2()
@@ -45,19 +45,19 @@ degree = []
 for item in DegToCntV:
 	node_count.append(item.GetVal2())
 	degree.append(item.GetVal1())
-
-# plt.plot(degree,node_count,'b-')
-# plt.yscale('log')
-# plt.xscale('log')
-# plt.ylabel('Number of nodes')
-# plt.xlabel('Degrees')
-# plt.suptitle("Small-World model degree distribution")
-# plt.grid()
-# plt.show()
+#
+plt.plot(degree,node_count,'b-')
+plt.yscale('log')
+plt.xscale('log')
+plt.ylabel('Number of nodes')
+plt.xlabel('Degrees')
+plt.suptitle("Small-World model degree distribution")
+plt.grid()
+plt.show()
 
 avg_path_len = 0
 n = num_nodes*(num_nodes-1)
-num_pairs = 20000
+num_pairs = 2000
 p1 = np.random.random_integers(0,num_nodes-1,num_pairs)
 p2 = np.random.random_integers(0,num_nodes-1,num_pairs)
 for i in range(num_pairs):

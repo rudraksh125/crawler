@@ -4,6 +4,9 @@ import powerlaw
 
 directed_G = nx.read_graphml('../networkx_graph.graphml')
 undirected_G = directed_G.to_undirected()
+print str(len(directed_G.nodes()))
+print str(len(directed_G.edges()))
+
 
 def in_degree_sequences(G):
     degree_sequence=sorted(G.in_degree().values(),reverse=True) # degree sequence

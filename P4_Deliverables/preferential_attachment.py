@@ -7,7 +7,7 @@ graph = snap.TNGraph.Load(FIn)
 
 num_nodes = graph.GetNodes()
 num_edges = graph.GetEdges()
-c = int(num_edges*1.0/num_nodes)
+c = 2
 
 pref_attach_graph = snap.GenPrefAttach(num_nodes,c)
 file_pa = snap.TFOut('preferential_attachment.graph')
@@ -47,7 +47,7 @@ plt.show()
 
 avg_path_len = 0
 n = num_nodes*(num_nodes-1)
-num_pairs = 20000
+num_pairs = 2000
 p1 = np.random.random_integers(0,num_nodes-1,num_pairs)
 p2 = np.random.random_integers(0,num_nodes-1,num_pairs)
 for i in range(num_pairs):
