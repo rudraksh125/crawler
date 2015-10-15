@@ -14,3 +14,4 @@ for i in range(0,3):
 		m[i][j] = spearmanr(c[i],c[j])[0]
 
 print m
+
