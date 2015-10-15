@@ -1,5 +1,6 @@
 In Degree sequence
 unique in-degrees in graph: 154
+(degree : count)
 24 : 90
 42 : 25
 219 : 1
