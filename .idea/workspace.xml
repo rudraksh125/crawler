@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93f327d8-03df-44db-9ebe-0f6fc9731a49" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/In Degree sequence.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/Out Degree sequence.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/P2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/bridge.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/degree_histogram.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/in-degree-log-plot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/in_degree_distribution.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/largest_components_output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/largest_connected_component.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/out-degree-log-plot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/out_degree_distribution.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/powerlaw_exponent.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/P2_Deliverables/triads_output.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P4_Deliverables/small_world.py" afterPath="$PROJECT_DIR$/P4_Deliverables/small_world.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="crawler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="degree_distribution.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="degree_distribution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P2_Deliverables/degree_distribution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.7700534">
-              <caret line="141" column="0" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -84,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="small_world.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="small_world.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/P4_Deliverables/small_world.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.46629214">
+              <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -99,7 +88,7 @@
       <file leaf-file-name="preferential_attachment.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P4_Deliverables/preferential_attachment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-16.333334">
               <caret line="53" column="59" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -112,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/P3_Deliverables/jaccard_similarity.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="75" />
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,7 +110,7 @@
       <file leaf-file-name="random_graph.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P4_Deliverables/random_graph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="12.555555">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
@@ -173,10 +162,11 @@
         <option value="$PROJECT_DIR$/P4_Deliverables/crawled_network_metrics.py" />
         <option value="$PROJECT_DIR$/P4_Deliverables/preferential_attachment.py" />
         <option value="$PROJECT_DIR$/P4_Deliverables/random_graph.py" />
-        <option value="$PROJECT_DIR$/P4_Deliverables/small_world.py" />
         <option value="$PROJECT_DIR$/graph.py" />
         <option value="$PROJECT_DIR$/P2_Deliverables/bridges.py" />
         <option value="$PROJECT_DIR$/P2_Deliverables/degree_distribution.py" />
+        <option value="$PROJECT_DIR$/P3_Deliverables/jaccard_similarity.py" />
+        <option value="$PROJECT_DIR$/P4_Deliverables/small_world.py" />
       </list>
     </option>
   </component>
@@ -240,6 +230,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="P4_Deliverables" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="P2_Deliverables" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -259,24 +263,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.degree_distribution">
-    <configuration default="false" name="jaccard_similarity" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="crawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jaccard_similarity.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.small_world">
     <configuration default="false" name="crawled_network_metrics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,6 +328,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="crawler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P2_Deliverables/degree_distribution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="small_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/P4_Deliverables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P4_Deliverables/small_world.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -468,19 +472,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.jaccard_similarity" />
-      <item index="1" class="java.lang.String" itemvalue="Python.crawled_network_metrics" />
-      <item index="2" class="java.lang.String" itemvalue="Python.random_graph" />
-      <item index="3" class="java.lang.String" itemvalue="Python.preferential_attachment" />
-      <item index="4" class="java.lang.String" itemvalue="Python.degree_distribution" />
+      <item index="0" class="java.lang.String" itemvalue="Python.crawled_network_metrics" />
+      <item index="1" class="java.lang.String" itemvalue="Python.random_graph" />
+      <item index="2" class="java.lang.String" itemvalue="Python.preferential_attachment" />
+      <item index="3" class="java.lang.String" itemvalue="Python.degree_distribution" />
+      <item index="4" class="java.lang.String" itemvalue="Python.small_world" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.degree_distribution" />
-        <item index="1" class="java.lang.String" itemvalue="Python.preferential_attachment" />
-        <item index="2" class="java.lang.String" itemvalue="Python.random_graph" />
-        <item index="3" class="java.lang.String" itemvalue="Python.crawled_network_metrics" />
-        <item index="4" class="java.lang.String" itemvalue="Python.jaccard_similarity" />
+        <item index="0" class="java.lang.String" itemvalue="Python.small_world" />
+        <item index="1" class="java.lang.String" itemvalue="Python.degree_distribution" />
+        <item index="2" class="java.lang.String" itemvalue="Python.preferential_attachment" />
+        <item index="3" class="java.lang.String" itemvalue="Python.random_graph" />
+        <item index="4" class="java.lang.String" itemvalue="Python.crawled_network_metrics" />
       </list>
     </recent_temporary>
   </component>
@@ -562,7 +566,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="65" />
+      <option name="time" value="67" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -632,34 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P4_Deliverables/random_graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P4_Deliverables/preferential_attachment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="59" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P4_Deliverables/small_world.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/P4_Deliverables/crawled_network_metrics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -688,20 +664,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/P2_Deliverables/degree_distribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/P3_Deliverables/jaccard_similarity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="75" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P2_Deliverables/degree_distribution.py">
+    <entry file="file://$PROJECT_DIR$/P4_Deliverables/random_graph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.7700534">
-          <caret line="141" column="0" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        <state vertical-scroll-proportion="12.555555">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P4_Deliverables/preferential_attachment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.333334">
+          <caret line="53" column="59" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P4_Deliverables/small_world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46629214">
+          <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>

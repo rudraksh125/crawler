@@ -46,21 +46,21 @@ for item in DegToCntV:
 	node_count.append(item.GetVal2())
 	degree.append(item.GetVal1())
 
-plt.plot(degree,node_count,'b-')
-plt.yscale('log')
-plt.xscale('log')
-plt.ylabel('Number of nodes')
-plt.xlabel('Degrees')
-plt.suptitle("Small-World model degree distribution")
-plt.grid()
-plt.show()
+# plt.plot(degree,node_count,'b-')
+# plt.yscale('log')
+# plt.xscale('log')
+# plt.ylabel('Number of nodes')
+# plt.xlabel('Degrees')
+# plt.suptitle("Small-World model degree distribution")
+# plt.grid()
+# plt.show()
 
 avg_path_len = 0
 n = num_nodes*(num_nodes-1)
-num_nodes = 20000
-p1 = np.random.random_integers(0,num_nodes-1,num_nodes)
-p2 = np.random.random_integers(0,num_nodes-1,num_nodes)
-for i in range(num_nodes):
+num_pairs = 20000
+p1 = np.random.random_integers(0,num_nodes-1,num_pairs)
+p2 = np.random.random_integers(0,num_nodes-1,num_pairs)
+for i in range(num_pairs):
 	avg_path_len += snap.GetShortPath(small_world_graph, p1[i], p2[i], True)
 
 print 'Average path length = %f' %(avg_path_len*1.0/num_pairs)
