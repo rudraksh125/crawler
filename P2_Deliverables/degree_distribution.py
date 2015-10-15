@@ -1,5 +1,6 @@
 import networkx as nx
 import  matplotlib.pyplot as plt
+import powerlaw
 
 directed_G = nx.read_graphml('../networkx_graph.graphml')
 undirected_G = directed_G.to_undirected()
@@ -61,7 +62,7 @@ def plot_in_degree_histogram(G):
     # plot degree distribution
     #plt.scatter(x_list,y_list)
     #plt.show()
-    plt.plot(x_list,y_list,'b-')
+    plt.plot(x_list,y_list,'bo')
     plt.yscale('log')
     plt.xscale('log')
     plt.ylabel('Number of nodes')
@@ -114,7 +115,7 @@ def plot_out_degree_histogram(G):
     # plot degree distribution
     #plt.scatter(x_list,y_list)
     #plt.show()
-    plt.plot(x_list,y_list,'-b')
+    plt.plot(x_list,y_list,'bo')
     plt.yscale('log')
     plt.xscale('log')
     plt.ylabel('Number of nodes')
@@ -123,6 +124,19 @@ def plot_out_degree_histogram(G):
     plt.grid()
     plt.show()
 
+
+def power_law_exponent():
+    in_degree_list = list(directed_G.in_degree().values())
+    in_degree = [x for x in in_degree_list if x != 0]
+    result = powerlaw.Fit(in_degree, discrete=True)
+    print "Alpha exponent of in degree distribution: ", result.power_law.alpha
+
+    out_degree_list = list(directed_G.out_degree().values())
+    out_degree = [x for x in out_degree_list if x != 0]
+    result = powerlaw.Fit(out_degree, discrete=True)
+    print "Alpha exponent of out degree distribution: ", result.power_law.alpha
+
+power_law_exponent()
 plot_in_degree_histogram(directed_G)
 plot_out_degree_histogram(directed_G)
 
