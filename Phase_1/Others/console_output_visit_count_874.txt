@@ -1,0 +1,6722 @@
+/Users/kvivekanandan/Desktop/ASU/CSE_598_Social_Media_Mining/Project/1_Submission/crawler/venv/bin/python "/Applications/PyCharm CE.app/Contents/helpers/pydev/pydevd.py" --multiproc --client 127.0.0.1 --port 54304 --file /Users/kvivekanandan/Desktop/ASU/CSE_598_Social_Media_Mining/Project/1_Submission/crawler/user_stream.py
+Connected to pydev debugger (build 141.2569)
+pydev debugger: process 52429 is connecting
+
+We sucessfully logged in api1
+We sucessfully logged in api2
+me: 226229231
+visiting 226229231
+checking api1
+using api1
+fetching friends ids..
+which has 705 friends
+visited count: 2current queue size: 705
+visiting 372480639
+checking api1
+using api1
+fetching friends ids..
+which has 461 friends
+visited count: 3current queue size: 1165
+visiting 53830401
+checking api1
+using api1
+fetching friends ids..
+which has 129 friends
+visited count: 4current queue size: 1293
+visiting 2916305152
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 5current queue size: 1293
+visiting 3237429959
+checking api1
+using api1
+fetching friends ids..
+which has 34 friends
+visited count: 6current queue size: 1326
+visiting 22732488
+checking api1
+using api1
+fetching friends ids..
+which has 241 friends
+visited count: 7current queue size: 1566
+visiting 17463140
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 8current queue size: 2565
+visiting 3245631819
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 9current queue size: 3564
+visiting 1140949538
+checking api1
+using api1
+fetching friends ids..
+which has 711 friends
+visited count: 10current queue size: 4274
+visiting 37680547
+checking api1
+using api1
+fetching friends ids..
+which has 444 friends
+visited count: 11current queue size: 4717
+visiting 1925693066
+checking api1
+using api1
+fetching friends ids..
+which has 132 friends
+visited count: 12current queue size: 4848
+visiting 2573880420
+checking api1
+using api1
+fetching friends ids..
+which has 42 friends
+visited count: 13current queue size: 4889
+visiting 2835662000
+checking api1
+using api1
+fetching friends ids..
+which has 69 friends
+visited count: 14current queue size: 4957
+visiting 87532773
+checking api1
+using api1
+fetching friends ids..
+which has 101 friends
+visited count: 15current queue size: 5057
+visiting 6253282
+checking api1
+using api1
+fetching friends ids..
+which has 47 friends
+visited count: 16current queue size: 5103
+visiting 63359297
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 99 friends
+visited count: 17current queue size: 5201
+visiting 68639853
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 59 friends
+visited count: 18current queue size: 5259
+visiting 386170457
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 4 friends
+visited count: 19current queue size: 5262
+visiting 91985735
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 163 friends
+visited count: 20current queue size: 5424
+visiting 316869223
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 292 friends
+visited count: 21current queue size: 5715
+visiting 533627349
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 41 friends
+visited count: 22current queue size: 5755
+visiting 318125560
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 182 friends
+visited count: 23current queue size: 5936
+visiting 46655302
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 12 friends
+visited count: 24current queue size: 5947
+visiting 1398603546
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 195 friends
+visited count: 25current queue size: 6141
+visiting 2735246778
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1577 friends
+visited count: 26current queue size: 7140
+visiting 80422885
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 132 friends
+visited count: 27current queue size: 7271
+visiting 2598162997
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 4783 friends
+visited count: 28current queue size: 8270
+visiting 316389142
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 71 friends
+visited count: 29current queue size: 8340
+visiting 205633346
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 812 friends
+visited count: 30current queue size: 9151
+visiting 539705648
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 185 friends
+visited count: 31current queue size: 9335
+visiting 26547694
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 221 friends
+visited count: 32current queue size: 9555
+visiting 1631299117
+checking api1
+using api1
+fetching friends ids..
+which has 3 friends
+visited count: 33current queue size: 9557
+visiting 2857515684
+checking api1
+using api1
+fetching friends ids..
+which has 101 friends
+visited count: 34current queue size: 9657
+visiting 30315557
+checking api1
+using api1
+fetching friends ids..
+which has 143 friends
+visited count: 35current queue size: 9799
+visiting 838673862
+checking api1
+using api1
+fetching friends ids..
+which has 138 friends
+visited count: 36current queue size: 9936
+visiting 6844292
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 37current queue size: 9936
+visiting 376825877
+checking api1
+using api1
+fetching friends ids..
+which has 47 friends
+visited count: 38current queue size: 9982
+visiting 1615618795
+checking api1
+using api1
+fetching friends ids..
+which has 364 friends
+visited count: 39current queue size: 10345
+visiting 2251588934
+checking api1
+using api1
+fetching friends ids..
+which has 153 friends
+visited count: 40current queue size: 10497
+visiting 297871169
+checking api1
+using api1
+fetching friends ids..
+which has 103 friends
+visited count: 41current queue size: 10599
+visiting 589444985
+checking api1
+using api1
+fetching friends ids..
+which has 91 friends
+visited count: 42current queue size: 10689
+visiting 101864611
+checking api1
+using api1
+fetching friends ids..
+which has 355 friends
+visited count: 43current queue size: 11043
+visiting 254495183
+checking api1
+using api1
+fetching friends ids..
+which has 231 friends
+visited count: 44current queue size: 11273
+visiting 115882166
+checking api1
+using api1
+fetching friends ids..
+which has 732 friends
+visited count: 45current queue size: 12004
+visiting 234859616
+checking api1
+using api1
+fetching friends ids..
+which has 171 friends
+visited count: 46current queue size: 12174
+visiting 3250115168
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 122 friends
+visited count: 47current queue size: 12295
+visiting 3195758450
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 317 friends
+visited count: 48current queue size: 12611
+visiting 1929245611
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 184 friends
+visited count: 49current queue size: 12794
+visiting 235727360
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 166 friends
+visited count: 50current queue size: 12959
+visiting 31536253
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1674 friends
+visited count: 51current queue size: 13958
+visiting 14409265
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 477 friends
+visited count: 52current queue size: 14434
+visiting 14115045
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 829 friends
+visited count: 53current queue size: 15262
+visiting 277894800
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3879 friends
+visited count: 54current queue size: 16261
+visiting 1531669496
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 797 friends
+visited count: 55current queue size: 17057
+visiting 1188951
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 202 friends
+visited count: 56current queue size: 17258
+visiting 33388650
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 195 friends
+visited count: 57current queue size: 17452
+visiting 14419089
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 4873 friends
+visited count: 58current queue size: 18451
+visiting 1582341876
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 167 friends
+visited count: 59current queue size: 18617
+visiting 14065609
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 497 friends
+visited count: 60current queue size: 19113
+visiting 2530135165
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 924 friends
+visited count: 61current queue size: 20036
+visiting 1536791610
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 68 friends
+visited count: 62current queue size: 20103
+visiting 22330739
+checking api1
+using api1
+fetching friends ids..
+which has 1398 friends
+visited count: 63current queue size: 21102
+visiting 22003865
+checking api1
+using api1
+fetching friends ids..
+which has 241 friends
+visited count: 64current queue size: 21342
+visiting 1290834806
+checking api1
+using api1
+fetching friends ids..
+which has 61 friends
+visited count: 65current queue size: 21402
+visiting 1679630443
+checking api1
+using api1
+fetching friends ids..
+which has 2000 friends
+visited count: 66current queue size: 22401
+visiting 357063176
+checking api1
+using api1
+fetching friends ids..
+which has 1810 friends
+visited count: 67current queue size: 23400
+visiting 61409445
+checking api1
+using api1
+fetching friends ids..
+which has 1108 friends
+visited count: 68current queue size: 24399
+visiting 3031120186
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 69current queue size: 24398
+visiting 2512853204
+checking api1
+using api1
+fetching friends ids..
+which has 180 friends
+visited count: 70current queue size: 24577
+visiting 3077869279
+checking api1
+using api1
+fetching friends ids..
+which has 1137 friends
+visited count: 71current queue size: 25576
+visiting 32423136
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 72current queue size: 26575
+visiting 85741735
+checking api1
+using api1
+fetching friends ids..
+which has 45 friends
+visited count: 73current queue size: 26619
+visiting 2931194496
+checking api1
+using api1
+fetching friends ids..
+which has 216 friends
+visited count: 74current queue size: 26834
+visiting 2317380504
+checking api1
+using api1
+fetching friends ids..
+which has 180 friends
+visited count: 75current queue size: 27013
+visiting 1526052913
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 76current queue size: 27013
+visiting 2782486272
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1993 friends
+visited count: 77current queue size: 28012
+visiting 86137429
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 530 friends
+visited count: 78current queue size: 28541
+visiting 34691819
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 73 friends
+visited count: 79current queue size: 28613
+visiting 100475306
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1232 friends
+visited count: 80current queue size: 29612
+visiting 2604068238
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 81current queue size: 30611
+visiting 2196922086
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5 friends
+visited count: 82current queue size: 30615
+visiting 3114423720
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1 friends
+visited count: 83current queue size: 30615
+visiting 948635953
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 212 friends
+visited count: 84current queue size: 30826
+visiting 3108045010
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 38 friends
+visited count: 85current queue size: 30863
+visiting 2546967049
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 367 friends
+visited count: 86current queue size: 31229
+visiting 14897303
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1633 friends
+visited count: 87current queue size: 32228
+visiting 3101410946
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 88current queue size: 32227
+visiting 44657496
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 364 friends
+visited count: 89current queue size: 32590
+visiting 3009992899
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 24 friends
+visited count: 90current queue size: 32613
+visiting 29749227
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 49 friends
+visited count: 91current queue size: 32661
+visiting 185728888
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 92current queue size: 33660
+visiting 30488144
+checking api1
+using api1
+fetching friends ids..
+which has 348 friends
+visited count: 93current queue size: 34007
+visiting 67763061
+checking api1
+using api1
+fetching friends ids..
+which has 37 friends
+visited count: 94current queue size: 34043
+visiting 1247551502
+checking api1
+using api1
+fetching friends ids..
+which has 124 friends
+visited count: 95current queue size: 34166
+visiting 111701670
+checking api1
+using api1
+fetching friends ids..
+which has 601 friends
+visited count: 96current queue size: 34766
+visiting 2178012643
+checking api1
+using api1
+fetching friends ids..
+which has 1037 friends
+visited count: 97current queue size: 35765
+visiting 15333047
+checking api1
+using api1
+fetching friends ids..
+which has 747 friends
+visited count: 98current queue size: 36511
+visiting 2893971
+checking api1
+using api1
+fetching friends ids..
+which has 90 friends
+visited count: 99current queue size: 36600
+visiting 3019412774
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 100current queue size: 36600
+visiting 1347753500
+checking api1
+using api1
+fetching friends ids..
+which has 322 friends
+visited count: 101current queue size: 36921
+visiting 405427035
+checking api1
+using api1
+fetching friends ids..
+which has 125 friends
+visited count: 102current queue size: 37045
+visiting 30973
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 103current queue size: 38044
+visiting 2182812798
+checking api1
+using api1
+fetching friends ids..
+which has 3685 friends
+visited count: 104current queue size: 39043
+visiting 569569550
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 105current queue size: 40042
+visiting 15127356
+checking api1
+using api1
+fetching friends ids..
+which has 228 friends
+visited count: 106current queue size: 40269
+visiting 2940079700
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 357 friends
+visited count: 107current queue size: 40625
+visiting 15118418
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 108current queue size: 41624
+visiting 19364978
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 109current queue size: 42623
+visiting 17611208
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 73 friends
+visited count: 110current queue size: 42695
+visiting 914061
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 495 friends
+visited count: 111current queue size: 43189
+visiting 14936846
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1112 friends
+visited count: 112current queue size: 44188
+visiting 2979430185
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 113current queue size: 44187
+visiting 113381300
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 477 friends
+visited count: 114current queue size: 44663
+visiting 100037113
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 233 friends
+visited count: 115current queue size: 44895
+visiting 64719766
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 268 friends
+visited count: 116current queue size: 45162
+visiting 6331462
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1946 friends
+visited count: 117current queue size: 46161
+visiting 68170267
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 861 friends
+visited count: 118current queue size: 47021
+visiting 106373558
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 245 friends
+visited count: 119current queue size: 47265
+visiting 77962561
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 674 friends
+visited count: 120current queue size: 47938
+visiting 951522626
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 121current queue size: 48937
+visiting 12387072
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 1109 friends
+visited count: 122current queue size: 49936
+visiting 605804404
+checking api1
+using api1
+fetching friends ids..
+which has 1156 friends
+visited count: 123current queue size: 50935
+visiting 51140674
+checking api1
+using api1
+fetching friends ids..
+which has 421 friends
+visited count: 124current queue size: 51355
+visiting 1922861
+checking api1
+using api1
+fetching friends ids..
+which has 44 friends
+visited count: 125current queue size: 51398
+visiting 974861
+checking api1
+using api1
+fetching friends ids..
+which has 36 friends
+visited count: 126current queue size: 51433
+visiting 16884623
+checking api1
+using api1
+fetching friends ids..
+which has 46 friends
+visited count: 127current queue size: 51478
+visiting 767894064
+checking api1
+using api1
+fetching friends ids..
+which has 122 friends
+visited count: 128current queue size: 51599
+visiting 2609917590
+checking api1
+using api1
+fetching friends ids..
+which has 65 friends
+visited count: 129current queue size: 51663
+visiting 15519565
+checking api1
+using api1
+fetching friends ids..
+which has 2216 friends
+visited count: 130current queue size: 52662
+visiting 103637045
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 131current queue size: 53661
+visiting 2451476942
+checking api1
+using api1
+fetching friends ids..
+which has 442 friends
+visited count: 132current queue size: 54102
+visiting 113130846
+checking api1
+using api1
+fetching friends ids..
+which has 117 friends
+visited count: 133current queue size: 54218
+visiting 2289618368
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 134current queue size: 55217
+visiting 5943622
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 135current queue size: 56216
+visiting 9078772
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 136current queue size: 57215
+visiting 2305835828
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 116 friends
+visited count: 137current queue size: 57330
+visiting 2855255702
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 154 friends
+visited count: 138current queue size: 57483
+visiting 160458047
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 514 friends
+visited count: 139current queue size: 57996
+visiting 332908858
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1 friends
+visited count: 140current queue size: 57996
+visiting 282430847
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 364 friends
+visited count: 141current queue size: 58359
+visiting 815547528
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 28 friends
+visited count: 142current queue size: 58386
+visiting 1606588254
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1 friends
+visited count: 143current queue size: 58386
+visiting 1544098640
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 249 friends
+visited count: 144current queue size: 58634
+visiting 867394322
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 4959 friends
+visited count: 145current queue size: 59633
+visiting 2765974980
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 43 friends
+visited count: 146current queue size: 59675
+visiting 2253142422
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 102 friends
+visited count: 147current queue size: 59776
+visiting 554867743
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 537 friends
+visited count: 148current queue size: 60312
+visiting 87279159
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1195 friends
+visited count: 149current queue size: 61311
+visiting 19103481
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 376 friends
+visited count: 150current queue size: 61686
+visiting 12044602
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 133 friends
+visited count: 151current queue size: 61818
+visiting 53855453
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 88 friends
+visited count: 152current queue size: 61905
+visiting 331158246
+checking api1
+using api1
+fetching friends ids..
+which has 517 friends
+visited count: 153current queue size: 62421
+visiting 31964589
+checking api1
+using api1
+fetching friends ids..
+which has 1683 friends
+visited count: 154current queue size: 63420
+visiting 341870293
+checking api1
+using api1
+fetching friends ids..
+which has 1053 friends
+visited count: 155current queue size: 64419
+visiting 2471359482
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 156current queue size: 64418
+visiting 14492722
+checking api1
+using api1
+fetching friends ids..
+which has 99 friends
+visited count: 157current queue size: 64516
+visiting 139193277
+checking api1
+using api1
+fetching friends ids..
+which has 106 friends
+visited count: 158current queue size: 64621
+visiting 734672100
+checking api1
+using api1
+fetching friends ids..
+which has 288 friends
+visited count: 159current queue size: 64908
+visiting 239505770
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 160current queue size: 65907
+visiting 155823836
+checking api1
+using api1
+fetching friends ids..
+which has 154 friends
+visited count: 161current queue size: 66060
+visiting 19879313
+checking api1
+using api1
+fetching friends ids..
+which has 614 friends
+visited count: 162current queue size: 66673
+visiting 2217099931
+checking api1
+using api1
+fetching friends ids..
+which has 3 friends
+visited count: 163current queue size: 66675
+visiting 502281810
+checking api1
+using api1
+fetching friends ids..
+which has 150 friends
+visited count: 164current queue size: 66824
+visiting 202571491
+checking api1
+using api1
+fetching friends ids..
+which has 99 friends
+visited count: 165current queue size: 66922
+visiting 564919357
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 166current queue size: 66921
+visiting 501146137
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 167current queue size: 66920
+visiting 21707785
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 881 friends
+visited count: 168current queue size: 67800
+visiting 26818740
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1161 friends
+visited count: 169current queue size: 68799
+visiting 21912403
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2 friends
+visited count: 170current queue size: 68800
+visiting 47755879
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 357 friends
+visited count: 171current queue size: 69156
+visiting 30972937
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 533 friends
+visited count: 172current queue size: 69688
+visiting 216939636
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 99 friends
+visited count: 173current queue size: 69786
+visiting 298552136
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 689 friends
+visited count: 174current queue size: 70474
+visiting 68042434
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 180 friends
+visited count: 175current queue size: 70653
+visiting 2649790560
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3 friends
+visited count: 176current queue size: 70655
+visiting 138779850
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 427 friends
+visited count: 177current queue size: 71081
+visiting 469412414
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 316 friends
+visited count: 178current queue size: 71396
+visiting 21424669
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1656 friends
+visited count: 179current queue size: 72395
+visiting 161783442
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 921 friends
+visited count: 180current queue size: 73315
+visiting 18985027
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2974 friends
+visited count: 181current queue size: 74314
+visiting 18713025
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 467 friends
+visited count: 182current queue size: 74780
+visiting 20172250
+checking api1
+using api1
+fetching friends ids..
+which has 687 friends
+visited count: 183current queue size: 75466
+visiting 22823252
+checking api1
+using api1
+fetching friends ids..
+which has 59 friends
+visited count: 184current queue size: 75524
+visiting 123468511
+checking api1
+using api1
+fetching friends ids..
+which has 1274 friends
+visited count: 185current queue size: 76523
+visiting 412116759
+checking api1
+using api1
+fetching friends ids..
+which has 545 friends
+visited count: 186current queue size: 77067
+visiting 2602959463
+checking api1
+using api1
+fetching friends ids..
+which has 22 friends
+visited count: 187current queue size: 77088
+visiting 14553715
+checking api1
+using api1
+fetching friends ids..
+which has 130 friends
+visited count: 188current queue size: 77217
+visiting 2168092658
+checking api1
+using api1
+fetching friends ids..
+which has 21 friends
+visited count: 189current queue size: 77237
+visiting 32337871
+checking api1
+using api1
+fetching friends ids..
+which has 72 friends
+visited count: 190current queue size: 77308
+visiting 2557037323
+checking api1
+using api1
+fetching friends ids..
+which has 43 friends
+visited count: 191current queue size: 77350
+visiting 59103510
+checking api1
+using api1
+fetching friends ids..
+which has 611 friends
+visited count: 192current queue size: 77960
+visiting 78299985
+checking api1
+using api1
+fetching friends ids..
+which has 1017 friends
+visited count: 193current queue size: 78959
+visiting 1345393938
+checking api1
+using api1
+fetching friends ids..
+which has 10 friends
+visited count: 194current queue size: 78968
+visiting 178812809
+checking api1
+using api1
+fetching friends ids..
+which has 231 friends
+visited count: 195current queue size: 79198
+visiting 102154232
+checking api1
+using api1
+fetching friends ids..
+which has 243 friends
+visited count: 196current queue size: 79440
+visiting 100322679
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1272 friends
+visited count: 197current queue size: 80439
+visiting 101798589
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 716 friends
+visited count: 198current queue size: 81154
+visiting 326706343
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 999 friends
+visited count: 199current queue size: 82152
+visiting 15300300
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 683 friends
+visited count: 200current queue size: 82834
+visiting 480782173
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 82 friends
+visited count: 201current queue size: 82915
+visiting 568175366
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1005 friends
+visited count: 202current queue size: 83914
+visiting 2557331808
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 409 friends
+visited count: 203current queue size: 84322
+visiting 151432737
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 618 friends
+visited count: 204current queue size: 84939
+visiting 16001482
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 787 friends
+visited count: 205current queue size: 85725
+visiting 29398579
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2967 friends
+visited count: 206current queue size: 86724
+visiting 2480079168
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 309 friends
+visited count: 207current queue size: 87032
+visiting 1555496156
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 80 friends
+visited count: 208current queue size: 87111
+visiting 1346439824
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 26 friends
+visited count: 209current queue size: 87136
+visiting 2183816041
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 162 friends
+visited count: 210current queue size: 87297
+visiting 130104041
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 221 friends
+visited count: 211current queue size: 87517
+visiting 441636351
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 453 friends
+visited count: 212current queue size: 87969
+visiting 15364101
+checking api1
+using api1
+fetching friends ids..
+which has 603 friends
+visited count: 213current queue size: 88571
+visiting 5052
+checking api1
+using api1
+fetching friends ids..
+which has 1258 friends
+visited count: 214current queue size: 89570
+visiting 15448910
+checking api1
+using api1
+fetching friends ids..
+which has 704 friends
+visited count: 215current queue size: 90273
+visiting 2481388164
+checking api1
+using api1
+fetching friends ids..
+which has 46 friends
+visited count: 216current queue size: 90318
+visiting 20891198
+checking api1
+using api1
+fetching friends ids..
+which has 523 friends
+visited count: 217current queue size: 90840
+visiting 1176135546
+checking api1
+using api1
+fetching friends ids..
+which has 20 friends
+visited count: 218current queue size: 90859
+visiting 139876086
+checking api1
+using api1
+fetching friends ids..
+which has 219 friends
+visited count: 219current queue size: 91077
+visiting 121828797
+checking api1
+using api1
+fetching friends ids..
+which has 270 friends
+visited count: 220current queue size: 91346
+visiting 1579422614
+checking api1
+using api1
+fetching friends ids..
+which has 45 friends
+visited count: 221current queue size: 91390
+visiting 47786101
+checking api1
+using api1
+fetching friends ids..
+which has 58 friends
+visited count: 222current queue size: 91447
+visiting 42228666
+checking api1
+using api1
+fetching friends ids..
+which has 529 friends
+visited count: 223current queue size: 91975
+visiting 1252382059
+checking api1
+using api1
+fetching friends ids..
+which has 107 friends
+visited count: 224current queue size: 92081
+visiting 469019879
+checking api1
+using api1
+fetching friends ids..
+which has 5 friends
+visited count: 225current queue size: 92085
+visiting 39413716
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 226current queue size: 93084
+visiting 374526155
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 353 friends
+visited count: 227current queue size: 93436
+visiting 1109129574
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 925 friends
+visited count: 228current queue size: 94360
+visiting 61180382
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 229current queue size: 95359
+visiting 531591023
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 69 friends
+visited count: 230current queue size: 95427
+visiting 42540916
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 4277 friends
+visited count: 231current queue size: 96426
+visiting 321132824
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 520 friends
+visited count: 232current queue size: 96945
+visiting 23412857
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 197 friends
+visited count: 233current queue size: 97141
+visiting 50586700
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 174 friends
+visited count: 234current queue size: 97314
+visiting 11757522
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2327 friends
+visited count: 235current queue size: 98313
+visiting 171827285
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 236current queue size: 99312
+visiting 11854052
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 250 friends
+visited count: 237current queue size: 99561
+visiting 16317096
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 259 friends
+visited count: 238current queue size: 99819
+visiting 212702867
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 626 friends
+visited count: 239current queue size: 100444
+visiting 149763
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1228 friends
+visited count: 240current queue size: 101443
+visiting 5939732
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 587 friends
+visited count: 241current queue size: 102029
+visiting 46885220
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 242current queue size: 103028
+visiting 253152603
+checking api1
+using api1
+fetching friends ids..
+which has 2481 friends
+visited count: 243current queue size: 104027
+visiting 42628439
+checking api1
+using api1
+fetching friends ids..
+which has 296 friends
+visited count: 244current queue size: 104322
+visiting 893431
+checking api1
+using api1
+fetching friends ids..
+which has 197 friends
+visited count: 245current queue size: 104518
+visiting 57267301
+checking api1
+using api1
+fetching friends ids..
+which has 353 friends
+visited count: 246current queue size: 104870
+visiting 2375721396
+checking api1
+using api1
+fetching friends ids..
+which has 2086 friends
+visited count: 247current queue size: 105869
+visiting 223110908
+checking api1
+using api1
+fetching friends ids..
+which has 245 friends
+visited count: 248current queue size: 106113
+visiting 6989452
+checking api1
+using api1
+fetching friends ids..
+which has 584 friends
+visited count: 249current queue size: 106696
+visiting 15265603
+checking api1
+using api1
+fetching friends ids..
+which has 94 friends
+visited count: 250current queue size: 106789
+visiting 171009315
+checking api1
+using api1
+fetching friends ids..
+which has 2506 friends
+visited count: 251current queue size: 107788
+visiting 143776014
+checking api1
+using api1
+fetching friends ids..
+which has 241 friends
+visited count: 252current queue size: 108028
+visiting 3198991
+checking api1
+using api1
+fetching friends ids..
+which has 273 friends
+visited count: 253current queue size: 108300
+visiting 104799662
+checking api1
+using api1
+fetching friends ids..
+which has 6 friends
+visited count: 254current queue size: 108305
+visiting 272067644
+checking api1
+using api1
+fetching friends ids..
+which has 53 friends
+visited count: 255current queue size: 108357
+visiting 747153
+checking api1
+using api1
+fetching friends ids..
+which has 1226 friends
+visited count: 256current queue size: 109356
+visiting 17366184
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 381 friends
+visited count: 257current queue size: 109736
+visiting 571589558
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 138 friends
+visited count: 258current queue size: 109873
+visiting 223807771
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 17 friends
+visited count: 259current queue size: 109889
+visiting 14110752
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1610 friends
+visited count: 260current queue size: 110888
+visiting 3382
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 261current queue size: 111887
+visiting 9081272
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 122 friends
+visited count: 262current queue size: 112008
+visiting 2163039523
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 54 friends
+visited count: 263current queue size: 112061
+visiting 1657730988
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 141 friends
+visited count: 264current queue size: 112201
+visiting 1546101560
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 172 friends
+visited count: 265current queue size: 112372
+visiting 124767141
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3514 friends
+visited count: 266current queue size: 113371
+visiting 5824912
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 929 friends
+visited count: 267current queue size: 114299
+visiting 484973443
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 424 friends
+visited count: 268current queue size: 114722
+visiting 8806712
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 346 friends
+visited count: 269current queue size: 115067
+visiting 332012070
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3252 friends
+visited count: 270current queue size: 116066
+visiting 987383070
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 93 friends
+visited count: 271current queue size: 116158
+visiting 30047168
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 136 friends
+visited count: 272current queue size: 116293
+visiting 40049821
+checking api1
+using api1
+fetching friends ids..
+which has 8 friends
+visited count: 273current queue size: 116300
+visiting 65796823
+checking api1
+using api1
+fetching friends ids..
+which has 2452 friends
+visited count: 274current queue size: 117299
+visiting 1867843520
+checking api1
+using api1
+fetching friends ids..
+which has 190 friends
+visited count: 275current queue size: 117488
+visiting 14393567
+checking api1
+using api1
+fetching friends ids..
+which has 265 friends
+visited count: 276current queue size: 117752
+visiting 52321035
+checking api1
+using api1
+fetching friends ids..
+which has 132 friends
+visited count: 277current queue size: 117883
+visiting 455810310
+checking api1
+using api1
+fetching friends ids..
+which has 96 friends
+visited count: 278current queue size: 117978
+visiting 16416727
+checking api1
+using api1
+fetching friends ids..
+which has 260 friends
+visited count: 279current queue size: 118237
+visiting 51717952
+checking api1
+using api1
+fetching friends ids..
+which has 1188 friends
+visited count: 280current queue size: 119236
+visiting 17239667
+checking api1
+using api1
+fetching friends ids..
+which has 582 friends
+visited count: 281current queue size: 119817
+visiting 114894699
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 282current queue size: 119817
+visiting 178248558
+checking api1
+using api1
+fetching friends ids..
+which has 1360 friends
+visited count: 283current queue size: 120816
+visiting 14471155
+checking api1
+using api1
+fetching friends ids..
+which has 2913 friends
+visited count: 284current queue size: 121815
+visiting 8167022
+checking api1
+using api1
+fetching friends ids..
+which has 1515 friends
+visited count: 285current queue size: 122814
+visiting 67557021
+checking api1
+using api1
+fetching friends ids..
+which has 202 friends
+visited count: 286current queue size: 123015
+visiting 81339834
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 91 friends
+visited count: 287current queue size: 123105
+visiting 50941565
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 207 friends
+visited count: 288current queue size: 123311
+visiting 135227064
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1620 friends
+visited count: 289current queue size: 124310
+visiting 17193794
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2582 friends
+visited count: 290current queue size: 125309
+visiting 298625735
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 8 friends
+visited count: 291current queue size: 125316
+visiting 72497588
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 416 friends
+visited count: 292current queue size: 125731
+visiting 127798115
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 615 friends
+visited count: 293current queue size: 126345
+visiting 915789252
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 396 friends
+visited count: 294current queue size: 126740
+visiting 283053195
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 616 friends
+visited count: 295current queue size: 127355
+visiting 2354388523
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 351 friends
+visited count: 296current queue size: 127705
+visiting 219617448
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 297current queue size: 127704
+visiting 50393960
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 169 friends
+visited count: 298current queue size: 127872
+visiting 36783881
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2 friends
+visited count: 299current queue size: 127873
+visiting 24775410
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 830 friends
+visited count: 300current queue size: 128702
+visiting 2326563562
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 301current queue size: 128701
+visiting 27814665
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 256 friends
+visited count: 302current queue size: 128956
+visiting 60642052
+checking api1
+using api1
+fetching friends ids..
+which has 1482 friends
+visited count: 303current queue size: 129955
+visiting 159124891
+checking api1
+using api1
+fetching friends ids..
+which has 669 friends
+visited count: 304current queue size: 130623
+visiting 6504602
+checking api1
+using api1
+fetching friends ids..
+which has 262 friends
+visited count: 305current queue size: 130884
+visiting 428248880
+checking api1
+using api1
+fetching friends ids..
+which has 179 friends
+visited count: 306current queue size: 131062
+visiting 69279952
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 307current queue size: 132061
+visiting 108698830
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 308current queue size: 133060
+visiting 5215
+checking api1
+using api1
+fetching friends ids..
+which has 334 friends
+visited count: 309current queue size: 133393
+visiting 928219752
+checking api1
+using api1
+fetching friends ids..
+which has 1679 friends
+visited count: 310current queue size: 134392
+visiting 159203775
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 311current queue size: 135391
+visiting 343739513
+checking api1
+using api1
+fetching friends ids..
+which has 1072 friends
+visited count: 312current queue size: 136390
+visiting 252792134
+checking api1
+using api1
+fetching friends ids..
+which has 3654 friends
+visited count: 313current queue size: 137389
+visiting 15407438
+checking api1
+using api1
+fetching friends ids..
+which has 2781 friends
+visited count: 314current queue size: 138388
+visiting 15758034
+checking api1
+using api1
+fetching friends ids..
+which has 301 friends
+visited count: 315current queue size: 138688
+visiting 18783501
+checking api1
+using api1
+fetching friends ids..
+which has 3087 friends
+visited count: 316current queue size: 139687
+visiting 207773069
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 41 friends
+visited count: 317current queue size: 139727
+visiting 15234886
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1025 friends
+visited count: 318current queue size: 140726
+visiting 416630123
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 10 friends
+visited count: 319current queue size: 140735
+visiting 14278978
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 902 friends
+visited count: 320current queue size: 141636
+visiting 13566872
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1790 friends
+visited count: 321current queue size: 142635
+visiting 1187955571
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 12 friends
+visited count: 322current queue size: 142646
+visiting 20571756
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 109 friends
+visited count: 323current queue size: 142754
+visiting 856741
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 246 friends
+visited count: 324current queue size: 142999
+visiting 2281044080
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 339 friends
+visited count: 325current queue size: 143337
+visiting 51772778
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 134 friends
+visited count: 326current queue size: 143470
+visiting 426430557
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3 friends
+visited count: 327current queue size: 143472
+visiting 24752484
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 82 friends
+visited count: 328current queue size: 143553
+visiting 1170885648
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 43 friends
+visited count: 329current queue size: 143595
+visiting 15075394
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 444 friends
+visited count: 330current queue size: 144038
+visiting 15105000
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1119 friends
+visited count: 331current queue size: 145037
+visiting 1526228120
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 10 friends
+visited count: 332current queue size: 145046
+visiting 33838201
+checking api1
+using api1
+fetching friends ids..
+which has 18 friends
+visited count: 333current queue size: 145063
+visiting 168264219
+checking api1
+using api1
+fetching friends ids..
+which has 10 friends
+visited count: 334current queue size: 145072
+visiting 104153680
+checking api1
+using api1
+fetching friends ids..
+which has 106 friends
+visited count: 335current queue size: 145177
+visiting 250495841
+checking api1
+using api1
+fetching friends ids..
+which has 782 friends
+visited count: 336current queue size: 145958
+visiting 20562637
+checking api1
+using api1
+fetching friends ids..
+which has 189 friends
+visited count: 337current queue size: 146146
+visiting 21576543
+checking api1
+using api1
+fetching friends ids..
+which has 292 friends
+visited count: 338current queue size: 146437
+visiting 283108742
+checking api1
+using api1
+fetching friends ids..
+which has 648 friends
+visited count: 339current queue size: 147084
+visiting 551851294
+checking api1
+using api1
+fetching friends ids..
+which has 126 friends
+visited count: 340current queue size: 147209
+visiting 431558375
+checking api1
+using api1
+fetching friends ids..
+which has 149 friends
+visited count: 341current queue size: 147357
+visiting 758632728
+checking api1
+using api1
+fetching friends ids..
+which has 940 friends
+visited count: 342current queue size: 148296
+visiting 2231285282
+checking api1
+using api1
+fetching friends ids..
+which has 51 friends
+visited count: 343current queue size: 148346
+visiting 1356595452
+checking api1
+using api1
+fetching friends ids..
+which has 747 friends
+visited count: 344current queue size: 149092
+visiting 115485051
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 345current queue size: 149091
+visiting 46608340
+checking api1
+using api1
+fetching friends ids..
+which has 186 friends
+visited count: 346current queue size: 149276
+visiting 47840951
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1715 friends
+visited count: 347current queue size: 150275
+visiting 919079586
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 30 friends
+visited count: 348current queue size: 150304
+visiting 34382125
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 967 friends
+visited count: 349current queue size: 151270
+visiting 231894697
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 355 friends
+visited count: 350current queue size: 151624
+visiting 1582702788
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 299 friends
+visited count: 351current queue size: 151922
+visiting 14075928
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 15 friends
+visited count: 352current queue size: 151936
+visiting 18254364
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 127 friends
+visited count: 353current queue size: 152062
+visiting 1273310648
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 238 friends
+visited count: 354current queue size: 152299
+visiting 64482503
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1201 friends
+visited count: 355current queue size: 153298
+visiting 1349082427
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 15 friends
+visited count: 356current queue size: 153312
+visiting 518930655
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 48 friends
+visited count: 357current queue size: 153359
+visiting 58565342
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 750 friends
+visited count: 358current queue size: 154108
+visiting 185677963
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 654 friends
+visited count: 359current queue size: 154761
+visiting 221353643
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 65 friends
+visited count: 360current queue size: 154825
+visiting 434671128
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 458 friends
+visited count: 361current queue size: 155282
+visiting 2185946690
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 139 friends
+visited count: 362current queue size: 155420
+visiting 1110733580
+checking api1
+using api1
+fetching friends ids..
+which has 146 friends
+visited count: 363current queue size: 155565
+visiting 132702118
+checking api1
+using api1
+fetching friends ids..
+which has 2045 friends
+visited count: 364current queue size: 156564
+visiting 210779782
+checking api1
+using api1
+fetching friends ids..
+which has 35 friends
+visited count: 365current queue size: 156598
+visiting 426562635
+checking api1
+using api1
+fetching friends ids..
+which has 590 friends
+visited count: 366current queue size: 157187
+visiting 624879916
+checking api1
+using api1
+fetching friends ids..
+which has 378 friends
+visited count: 367current queue size: 157564
+visiting 1713963577
+checking api1
+using api1
+fetching friends ids..
+which has 1888 friends
+visited count: 368current queue size: 158563
+visiting 23406806
+checking api1
+using api1
+fetching friends ids..
+which has 116 friends
+visited count: 369current queue size: 158678
+visiting 449588356
+checking api1
+using api1
+fetching friends ids..
+which has 308 friends
+visited count: 370current queue size: 158985
+visiting 97426170
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 371current queue size: 159984
+visiting 142334215
+checking api1
+using api1
+fetching friends ids..
+which has 227 friends
+visited count: 372current queue size: 160210
+visiting 1001286684
+checking api1
+using api1
+fetching friends ids..
+which has 320 friends
+visited count: 373current queue size: 160529
+visiting 406172437
+checking api1
+using api1
+fetching friends ids..
+which has 79 friends
+visited count: 374current queue size: 160607
+visiting 1456742418
+checking api1
+using api1
+fetching friends ids..
+which has 209 friends
+visited count: 375current queue size: 160815
+visiting 300735398
+checking api1
+using api1
+fetching friends ids..
+which has 2583 friends
+visited count: 376current queue size: 161814
+visiting 417656212
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 77 friends
+visited count: 377current queue size: 161890
+visiting 256669567
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 131 friends
+visited count: 378current queue size: 162020
+visiting 1495255914
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 213 friends
+visited count: 379current queue size: 162232
+visiting 69181624
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 127 friends
+visited count: 380current queue size: 162358
+visiting 1890240859
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 20 friends
+visited count: 381current queue size: 162377
+visiting 31479252
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 41 friends
+visited count: 382current queue size: 162417
+visiting 434270813
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 375 friends
+visited count: 383current queue size: 162791
+visiting 117052405
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 203 friends
+visited count: 384current queue size: 162993
+visiting 189068159
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 91 friends
+visited count: 385current queue size: 163083
+visiting 30352096
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 97 friends
+visited count: 386current queue size: 163179
+visiting 64324543
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 44 friends
+visited count: 387current queue size: 163222
+visiting 14842853
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 221 friends
+visited count: 388current queue size: 163442
+visiting 16942956
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 585 friends
+visited count: 389current queue size: 164026
+visiting 93711247
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 32 friends
+visited count: 390current queue size: 164057
+visiting 15308679
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3341 friends
+visited count: 391current queue size: 165056
+visiting 2147760103
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 392current queue size: 165055
+visiting 75989138
+checking api1
+using api1
+fetching friends ids..
+which has 30 friends
+visited count: 393current queue size: 165084
+visiting 335099279
+checking api1
+using api1
+fetching friends ids..
+which has 1168 friends
+visited count: 394current queue size: 166083
+visiting 21014078
+checking api1
+using api1
+fetching friends ids..
+which has 413 friends
+visited count: 395current queue size: 166495
+visiting 1871904372
+checking api1
+using api1
+fetching friends ids..
+which has 35 friends
+visited count: 396current queue size: 166529
+visiting 44771048
+checking api1
+using api1
+fetching friends ids..
+which has 55 friends
+visited count: 397current queue size: 166583
+visiting 47576547
+checking api1
+using api1
+fetching friends ids..
+which has 43 friends
+visited count: 398current queue size: 166625
+visiting 39717067
+checking api1
+using api1
+fetching friends ids..
+which has 99 friends
+visited count: 399current queue size: 166723
+visiting 91867783
+checking api1
+using api1
+fetching friends ids..
+which has 15 friends
+visited count: 400current queue size: 166737
+visiting 19130146
+checking api1
+using api1
+fetching friends ids..
+which has 1836 friends
+visited count: 401current queue size: 167736
+visiting 6385432
+checking api1
+using api1
+fetching friends ids..
+which has 611 friends
+visited count: 402current queue size: 168346
+visiting 586
+checking api1
+using api1
+fetching friends ids..
+which has 896 friends
+visited count: 403current queue size: 169241
+visiting 20263710
+checking api1
+using api1
+fetching friends ids..
+which has 351 friends
+visited count: 404current queue size: 169591
+visiting 17899109
+checking api1
+using api1
+fetching friends ids..
+which has 926 friends
+visited count: 405current queue size: 170516
+visiting 17490768
+checking api1
+using api1
+fetching friends ids..
+which has 194 friends
+visited count: 406current queue size: 170709
+visiting 207809313
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 407current queue size: 170708
+visiting 45570140
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 82 friends
+visited count: 408current queue size: 170789
+visiting 22938914
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 85 friends
+visited count: 409current queue size: 170873
+visiting 1666038950
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1740 friends
+visited count: 410current queue size: 171872
+visiting 1636590253
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 43 friends
+visited count: 411current queue size: 171914
+visiting 49578370
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 448 friends
+visited count: 412current queue size: 172361
+visiting 168857946
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2516 friends
+visited count: 413current queue size: 173360
+visiting 38212537
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 654 friends
+visited count: 414current queue size: 174013
+visiting 252965572
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1457 friends
+visited count: 415current queue size: 175012
+visiting 94682674
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1 friends
+visited count: 416current queue size: 175012
+visiting 159714480
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1563 friends
+visited count: 417current queue size: 176011
+visiting 792690
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1424 friends
+visited count: 418current queue size: 177010
+visiting 352053266
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 312 friends
+visited count: 419current queue size: 177321
+visiting 631289812
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 227 friends
+visited count: 420current queue size: 177547
+visiting 2467791
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1205 friends
+visited count: 421current queue size: 178546
+visiting 104208095
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 110 friends
+visited count: 422current queue size: 178655
+visiting 22513829
+checking api1
+using api1
+fetching friends ids..
+which has 531 friends
+visited count: 423current queue size: 179185
+visiting 50254941
+checking api1
+using api1
+fetching friends ids..
+which has 551 friends
+visited count: 424current queue size: 179735
+visiting 265178794
+checking api1
+using api1
+fetching friends ids..
+which has 142 friends
+visited count: 425current queue size: 179876
+visiting 491994086
+checking api1
+using api1
+fetching friends ids..
+which has 85 friends
+visited count: 426current queue size: 179960
+visiting 101358177
+checking api1
+using api1
+fetching friends ids..
+which has 49 friends
+visited count: 427current queue size: 180008
+visiting 79347607
+checking api1
+using api1
+fetching friends ids..
+which has 165 friends
+visited count: 428current queue size: 180172
+visiting 52551600
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 429current queue size: 180172
+visiting 15179424
+checking api1
+using api1
+fetching friends ids..
+which has 1236 friends
+visited count: 430current queue size: 181171
+visiting 55168954
+checking api1
+using api1
+fetching friends ids..
+which has 84 friends
+visited count: 431current queue size: 181254
+visiting 1565631157
+checking api1
+using api1
+fetching friends ids..
+which has 37 friends
+visited count: 432current queue size: 181290
+visiting 106513920
+checking api1
+using api1
+fetching friends ids..
+which has 162 friends
+visited count: 433current queue size: 181451
+visiting 325731622
+checking api1
+using api1
+fetching friends ids..
+which has 468 friends
+visited count: 434current queue size: 181918
+visiting 434865048
+checking api1
+using api1
+fetching friends ids..
+which has 91 friends
+visited count: 435current queue size: 182008
+visiting 23754854
+checking api1
+using api1
+fetching friends ids..
+which has 255 friends
+visited count: 436current queue size: 182262
+visiting 99237022
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 129 friends
+visited count: 437current queue size: 182390
+visiting 1337785291
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 79 friends
+visited count: 438current queue size: 182468
+visiting 52575969
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 941 friends
+visited count: 439current queue size: 183408
+visiting 14320997
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3470 friends
+visited count: 440current queue size: 184407
+visiting 344634424
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 79 friends
+visited count: 441current queue size: 184485
+visiting 259925559
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 680 friends
+visited count: 442current queue size: 185164
+visiting 79421749
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1036 friends
+visited count: 443current queue size: 186163
+visiting 755718001
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 79 friends
+visited count: 444current queue size: 186241
+visiting 192813562
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 486 friends
+visited count: 445current queue size: 186726
+visiting 35927341
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 446current queue size: 187725
+visiting 169469555
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 8 friends
+visited count: 447current queue size: 187732
+visiting 636799960
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 131 friends
+visited count: 448current queue size: 187862
+visiting 14372486
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 247 friends
+visited count: 449current queue size: 188108
+visiting 255147004
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 684 friends
+visited count: 450current queue size: 188791
+visiting 502972522
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 818 friends
+visited count: 451current queue size: 189608
+visiting 14800270
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 191 friends
+visited count: 452current queue size: 189798
+visiting 305486456
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 453current queue size: 190797
+visiting 49753110
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 454current queue size: 191796
+visiting 113357841
+checking api1
+using api1
+fetching friends ids..
+which has 117 friends
+visited count: 455current queue size: 191912
+visiting 889038620
+checking api1
+using api1
+fetching friends ids..
+which has 75 friends
+visited count: 456current queue size: 191986
+visiting 90812874
+checking api1
+using api1
+fetching friends ids..
+which has 112 friends
+visited count: 457current queue size: 192097
+visiting 332260518
+checking api1
+using api1
+fetching friends ids..
+which has 44 friends
+visited count: 458current queue size: 192140
+visiting 168606635
+checking api1
+using api1
+fetching friends ids..
+which has 245 friends
+visited count: 459current queue size: 192384
+visiting 356893311
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 460current queue size: 192383
+visiting 80782060
+checking api1
+using api1
+fetching friends ids..
+which has 178 friends
+visited count: 461current queue size: 192560
+visiting 358814014
+checking api1
+using api1
+fetching friends ids..
+which has 84 friends
+visited count: 462current queue size: 192643
+visiting 1102984189
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 463current queue size: 192643
+visiting 575188047
+checking api1
+using api1
+fetching friends ids..
+which has 69 friends
+visited count: 464current queue size: 192711
+visiting 186054339
+checking api1
+using api1
+fetching friends ids..
+which has 731 friends
+visited count: 465current queue size: 193441
+visiting 339439341
+checking api1
+using api1
+fetching friends ids..
+which has 86 friends
+visited count: 466current queue size: 193526
+visiting 586361294
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 267 friends
+visited count: 467current queue size: 193792
+visiting 385226943
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 453 friends
+visited count: 468current queue size: 194244
+visiting 256296877
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 18 friends
+visited count: 469current queue size: 194261
+visiting 740726467
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 470current queue size: 194260
+visiting 447908664
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 318 friends
+visited count: 471current queue size: 194577
+visiting 16610891
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 167 friends
+visited count: 472current queue size: 194743
+visiting 543699683
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 161 friends
+visited count: 473current queue size: 194903
+visiting 58243368
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 403 friends
+visited count: 474current queue size: 195305
+visiting 473235312
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 479 friends
+visited count: 475current queue size: 195783
+visiting 37060788
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 407 friends
+visited count: 476current queue size: 196189
+visiting 44196397
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 48 friends
+visited count: 477current queue size: 196236
+visiting 1220238792
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 193 friends
+visited count: 478current queue size: 196428
+visiting 17790274
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 479current queue size: 197427
+visiting 727670113
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 107 friends
+visited count: 480current queue size: 197533
+visiting 17482727
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 214 friends
+visited count: 481current queue size: 197746
+visiting 406969622
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 482current queue size: 197745
+visiting 17595439
+checking api1
+using api1
+fetching friends ids..
+which has 864 friends
+visited count: 483current queue size: 198608
+visiting 248595702
+checking api1
+using api1
+fetching friends ids..
+which has 573 friends
+visited count: 484current queue size: 199180
+visiting 824604764
+checking api1
+using api1
+fetching friends ids..
+which has 24 friends
+visited count: 485current queue size: 199203
+visiting 20125269
+checking api1
+using api1
+fetching friends ids..
+which has 17 friends
+visited count: 486current queue size: 199219
+visiting 53276859
+checking api1
+using api1
+fetching friends ids..
+which has 442 friends
+visited count: 487current queue size: 199660
+visiting 46704429
+checking api1
+using api1
+fetching friends ids..
+which has 74 friends
+visited count: 488current queue size: 199733
+visiting 86478153
+checking api1
+using api1
+fetching friends ids..
+which has 267 friends
+visited count: 489current queue size: 199999
+visiting 325190623
+checking api1
+using api1
+fetching friends ids..
+which has 354 friends
+visited count: 490current queue size: 200352
+visiting 41012588
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 491current queue size: 201351
+visiting 328302738
+checking api1
+using api1
+fetching friends ids..
+which has 56 friends
+visited count: 492current queue size: 201406
+visiting 5676102
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 493current queue size: 202405
+visiting 338304891
+checking api1
+using api1
+fetching friends ids..
+which has 46 friends
+visited count: 494current queue size: 202450
+visiting 8160872
+checking api1
+using api1
+fetching friends ids..
+which has 537 friends
+visited count: 495current queue size: 202986
+visiting 15808647
+checking api1
+using api1
+fetching friends ids..
+which has 3022 friends
+visited count: 496current queue size: 203985
+visiting 517110438
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 374 friends
+visited count: 497current queue size: 204358
+visiting 24889586
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2840 friends
+visited count: 498current queue size: 205357
+visiting 261162150
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 528 friends
+visited count: 499current queue size: 205884
+visiting 276445549
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2001 friends
+visited count: 500current queue size: 206883
+visiting 561335546
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 106 friends
+visited count: 501current queue size: 206988
+visiting 64650016
+checking api1
+checking api2
+using api2
+fetching friends ids..
+sleeping...
+visiting 14214982
+checking api1
+using api1
+fetching friends ids..
+which has 539 friends
+visited count: 502current queue size: 207525
+visiting 238034157
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 503current queue size: 207525
+visiting 347861221
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 504current queue size: 207524
+visiting 193767799
+checking api1
+using api1
+fetching friends ids..
+which has 566 friends
+visited count: 505current queue size: 208089
+visiting 88856792
+checking api1
+using api1
+fetching friends ids..
+which has 6 friends
+visited count: 506current queue size: 208094
+visiting 41589887
+checking api1
+using api1
+fetching friends ids..
+which has 8 friends
+visited count: 507current queue size: 208101
+visiting 114100943
+checking api1
+using api1
+fetching friends ids..
+which has 36 friends
+visited count: 508current queue size: 208136
+visiting 718339986
+checking api1
+using api1
+fetching friends ids..
+which has 471 friends
+visited count: 509current queue size: 208606
+visiting 408812955
+checking api1
+using api1
+fetching friends ids..
+which has 256 friends
+visited count: 510current queue size: 208861
+visiting 44826297
+checking api1
+using api1
+fetching friends ids..
+which has 202 friends
+visited count: 511current queue size: 209062
+visiting 129759833
+checking api1
+using api1
+fetching friends ids..
+which has 61 friends
+visited count: 512current queue size: 209122
+visiting 13058232
+checking api1
+using api1
+fetching friends ids..
+which has 1222 friends
+visited count: 513current queue size: 210121
+visiting 26074603
+checking api1
+using api1
+fetching friends ids..
+which has 907 friends
+visited count: 514current queue size: 211027
+visiting 127569781
+checking api1
+using api1
+fetching friends ids..
+which has 4642 friends
+visited count: 515current queue size: 212026
+visiting 5956982
+checking api1
+using api1
+fetching friends ids..
+which has 510 friends
+visited count: 516current queue size: 212535
+visiting 449563624
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 35 friends
+visited count: 517current queue size: 212569
+visiting 47062869
+checking api1
+checking api2
+using api2
+fetching friends ids..
+sleeping...
+visiting 144480494
+checking api1
+using api1
+fetching friends ids..
+which has 5 friends
+visited count: 518current queue size: 212572
+visiting 815674142
+checking api1
+using api1
+fetching friends ids..
+which has 113 friends
+visited count: 519current queue size: 212684
+visiting 14749606
+checking api1
+using api1
+fetching friends ids..
+which has 25 friends
+visited count: 520current queue size: 212708
+visiting 260654014
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 521current queue size: 212708
+visiting 75843013
+checking api1
+using api1
+fetching friends ids..
+which has 286 friends
+visited count: 522current queue size: 212993
+visiting 33094047
+checking api1
+using api1
+fetching friends ids..
+which has 155 friends
+visited count: 523current queue size: 213147
+visiting 555135288
+checking api1
+using api1
+fetching friends ids..
+which has 537 friends
+visited count: 524current queue size: 213683
+visiting 443041852
+checking api1
+using api1
+fetching friends ids..
+which has 1 friends
+visited count: 525current queue size: 213683
+visiting 52729592
+checking api1
+using api1
+fetching friends ids..
+which has 124 friends
+visited count: 526current queue size: 213806
+visiting 58756078
+checking api1
+using api1
+fetching friends ids..
+which has 211 friends
+visited count: 527current queue size: 214016
+visiting 100796425
+checking api1
+using api1
+fetching friends ids..
+which has 744 friends
+visited count: 528current queue size: 214759
+visiting 571202103
+checking api1
+using api1
+fetching friends ids..
+which has 146 friends
+visited count: 529current queue size: 214904
+visiting 174062493
+checking api1
+using api1
+fetching friends ids..
+which has 873 friends
+visited count: 530current queue size: 215776
+visiting 106333951
+checking api1
+using api1
+fetching friends ids..
+which has 92 friends
+visited count: 531current queue size: 215867
+visiting 61306578
+checking api1
+using api1
+fetching friends ids..
+which has 336 friends
+visited count: 532current queue size: 216202
+visiting 5637652
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 171 friends
+visited count: 533current queue size: 216372
+visiting 74543
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1749 friends
+visited count: 534current queue size: 217371
+visiting 17503180
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 338 friends
+visited count: 535current queue size: 217708
+visiting 251048897
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 364 friends
+visited count: 536current queue size: 218071
+visiting 215155315
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2022 friends
+visited count: 537current queue size: 219070
+visiting 110949597
+checking api1
+checking api2
+using api2
+fetching friends ids..
+sleeping...
+visiting 27069499
+checking api1
+using api1
+fetching friends ids..
+which has 559 friends
+visited count: 538current queue size: 219627
+visiting 152959782
+checking api1
+using api1
+fetching friends ids..
+which has 269 friends
+visited count: 539current queue size: 219895
+visiting 207171775
+checking api1
+using api1
+fetching friends ids..
+which has 115 friends
+visited count: 540current queue size: 220009
+visiting 166231060
+checking api1
+using api1
+fetching friends ids..
+which has 220 friends
+visited count: 541current queue size: 220228
+visiting 74181214
+checking api1
+using api1
+fetching friends ids..
+which has 194 friends
+visited count: 542current queue size: 220421
+visiting 14243446
+checking api1
+using api1
+fetching friends ids..
+which has 423 friends
+visited count: 543current queue size: 220843
+visiting 580038260
+checking api1
+using api1
+fetching friends ids..
+which has 9 friends
+visited count: 544current queue size: 220851
+visiting 360494710
+checking api1
+using api1
+fetching friends ids..
+which has 412 friends
+visited count: 545current queue size: 221262
+visiting 171889258
+checking api1
+using api1
+fetching friends ids..
+which has 164 friends
+visited count: 546current queue size: 221425
+visiting 15818391
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 547current queue size: 222424
+visiting 478727490
+checking api1
+using api1
+fetching friends ids..
+which has 2053 friends
+visited count: 548current queue size: 223423
+visiting 330887391
+checking api1
+using api1
+fetching friends ids..
+which has 339 friends
+visited count: 549current queue size: 223761
+visiting 459829116
+checking api1
+using api1
+fetching friends ids..
+which has 27 friends
+visited count: 550current queue size: 223787
+visiting 2029641
+checking api1
+using api1
+fetching friends ids..
+which has 1421 friends
+visited count: 551current queue size: 224786
+visiting 532041967
+checking api1
+using api1
+fetching friends ids..
+which has 97 friends
+visited count: 552current queue size: 224882
+visiting 34713500
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 353 friends
+visited count: 553current queue size: 225234
+visiting 21996247
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 53 friends
+visited count: 554current queue size: 225286
+visiting 759251
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1104 friends
+visited count: 555current queue size: 226285
+visiting 11620792
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3 friends
+visited count: 556current queue size: 226287
+visiting 817209
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 372 friends
+visited count: 557current queue size: 226658
+visiting 91478624
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 558current queue size: 227657
+visiting 488153320
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 47 friends
+visited count: 559current queue size: 227703
+visiting 21009196
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 202 friends
+visited count: 560current queue size: 227904
+visiting 128361193
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1294 friends
+visited count: 561current queue size: 228903
+visiting 180505807
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3 friends
+visited count: 562current queue size: 228905
+visiting 31986700
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 563current queue size: 229904
+visiting 15188383
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 455 friends
+visited count: 564current queue size: 230358
+visiting 162397949
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 204 friends
+visited count: 565current queue size: 230561
+visiting 20524268
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 458 friends
+visited count: 566current queue size: 231018
+visiting 31604155
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 26 friends
+visited count: 567current queue size: 231043
+visiting 163188236
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 568current queue size: 231042
+visiting 103323813
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 569current queue size: 232041
+visiting 184457494
+checking api1
+using api1
+fetching friends ids..
+which has 58 friends
+visited count: 570current queue size: 232098
+visiting 471741741
+checking api1
+using api1
+fetching friends ids..
+which has 197 friends
+visited count: 571current queue size: 232294
+visiting 14209720
+checking api1
+using api1
+fetching friends ids..
+which has 40 friends
+visited count: 572current queue size: 232333
+visiting 410719820
+checking api1
+using api1
+fetching friends ids..
+which has 401 friends
+visited count: 573current queue size: 232733
+visiting 30430816
+checking api1
+using api1
+fetching friends ids..
+which has 857 friends
+visited count: 574current queue size: 233589
+visiting 36657926
+checking api1
+using api1
+fetching friends ids..
+which has 42 friends
+visited count: 575current queue size: 233630
+visiting 114795028
+checking api1
+using api1
+fetching friends ids..
+which has 321 friends
+visited count: 576current queue size: 233950
+visiting 110025421
+checking api1
+using api1
+fetching friends ids..
+which has 201 friends
+visited count: 577current queue size: 234150
+visiting 174452224
+checking api1
+using api1
+fetching friends ids..
+which has 452 friends
+visited count: 578current queue size: 234601
+visiting 121558178
+checking api1
+using api1
+fetching friends ids..
+which has 3363 friends
+visited count: 579current queue size: 235600
+visiting 28138900
+checking api1
+using api1
+fetching friends ids..
+which has 134 friends
+visited count: 580current queue size: 235733
+visiting 407027622
+checking api1
+using api1
+fetching friends ids..
+which has 666 friends
+visited count: 581current queue size: 236398
+visiting 22532755
+checking api1
+using api1
+fetching friends ids..
+which has 806 friends
+visited count: 582current queue size: 237203
+visiting 16237067
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 345 friends
+visited count: 583current queue size: 237547
+visiting 7905122
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 584current queue size: 238546
+visiting 57947109
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 22 friends
+visited count: 585current queue size: 238567
+visiting 56644783
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 374 friends
+visited count: 586current queue size: 238940
+visiting 396238794
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 19 friends
+visited count: 587current queue size: 238958
+visiting 14677919
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 347 friends
+visited count: 588current queue size: 239304
+visiting 58545637
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 6 friends
+visited count: 589current queue size: 239309
+visiting 989
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1153 friends
+visited count: 590current queue size: 240308
+visiting 42226885
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 254 friends
+visited count: 591current queue size: 240561
+visiting 121247245
+checking api1
+checking api2
+using api2
+fetching friends ids..
+sleeping...
+visiting 14328066
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 592current queue size: 241559
+visiting 27206563
+checking api1
+using api1
+fetching friends ids..
+which has 73 friends
+visited count: 593current queue size: 241631
+visiting 409867589
+checking api1
+using api1
+fetching friends ids..
+which has 584 friends
+visited count: 594current queue size: 242214
+visiting 14130366
+checking api1
+using api1
+fetching friends ids..
+which has 244 friends
+visited count: 595current queue size: 242457
+visiting 43551888
+checking api1
+using api1
+fetching friends ids..
+which has 271 friends
+visited count: 596current queue size: 242727
+visiting 16399949
+checking api1
+using api1
+fetching friends ids..
+which has 1585 friends
+visited count: 597current queue size: 243726
+visiting 32718488
+checking api1
+using api1
+fetching friends ids..
+which has 386 friends
+visited count: 598current queue size: 244111
+visiting 20404983
+checking api1
+using api1
+fetching friends ids..
+which has 3824 friends
+visited count: 599current queue size: 245110
+visiting 92708272
+checking api1
+using api1
+fetching friends ids..
+which has 27 friends
+visited count: 600current queue size: 245136
+visiting 18375354
+checking api1
+using api1
+fetching friends ids..
+which has 247 friends
+visited count: 601current queue size: 245382
+visiting 12
+checking api1
+using api1
+fetching friends ids..
+which has 1641 friends
+visited count: 602current queue size: 246381
+visiting 195849620
+checking api1
+using api1
+fetching friends ids..
+which has 1125 friends
+visited count: 603current queue size: 247380
+visiting 40666515
+checking api1
+using api1
+fetching friends ids..
+which has 187 friends
+visited count: 604current queue size: 247566
+visiting 106620826
+checking api1
+using api1
+fetching friends ids..
+which has 198 friends
+visited count: 605current queue size: 247763
+visiting 14130784
+checking api1
+using api1
+fetching friends ids..
+which has 1405 friends
+visited count: 606current queue size: 248762
+visiting 14727207
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1422 friends
+visited count: 607current queue size: 249761
+visiting 378223565
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 549 friends
+visited count: 608current queue size: 250309
+visiting 20536157
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 437 friends
+visited count: 609current queue size: 250745
+visiting 277434037
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 37 friends
+visited count: 610current queue size: 250781
+visiting 257492733
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1 friends
+visited count: 611current queue size: 250781
+visiting 135109677
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 40 friends
+visited count: 612current queue size: 250820
+visiting 83265346
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 613current queue size: 251819
+visiting 434064910
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 61 friends
+visited count: 614current queue size: 251879
+visiting 49128870
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 271 friends
+visited count: 615current queue size: 252149
+visiting 336116660
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 90 friends
+visited count: 616current queue size: 252238
+visiting 133880286
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 142 friends
+visited count: 617current queue size: 252379
+visiting 14722480
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1349 friends
+visited count: 618current queue size: 253378
+visiting 55486675
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 86 friends
+visited count: 619current queue size: 253463
+visiting 11695052
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 925 friends
+visited count: 620current queue size: 254387
+visiting 141527741
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 30 friends
+visited count: 621current queue size: 254416
+visiting 410275306
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 633 friends
+visited count: 622current queue size: 255048
+visiting 16879392
+checking api1
+using api1
+fetching friends ids..
+which has 838 friends
+visited count: 623current queue size: 255885
+visiting 381913973
+checking api1
+using api1
+fetching friends ids..
+which has 2060 friends
+visited count: 624current queue size: 256884
+visiting 215597791
+checking api1
+using api1
+fetching friends ids..
+which has 321 friends
+visited count: 625current queue size: 257204
+visiting 412761520
+checking api1
+using api1
+fetching friends ids..
+which has 338 friends
+visited count: 626current queue size: 257541
+visiting 93957809
+checking api1
+using api1
+fetching friends ids..
+which has 227 friends
+visited count: 627current queue size: 257767
+visiting 64764487
+checking api1
+using api1
+fetching friends ids..
+which has 183 friends
+visited count: 628current queue size: 257949
+visiting 152251488
+checking api1
+using api1
+fetching friends ids..
+which has 103 friends
+visited count: 629current queue size: 258051
+visiting 14118608
+checking api1
+using api1
+fetching friends ids..
+which has 541 friends
+visited count: 630current queue size: 258591
+visiting 31834922
+checking api1
+using api1
+fetching friends ids..
+which has 276 friends
+visited count: 631current queue size: 258866
+visiting 141615129
+checking api1
+using api1
+fetching friends ids..
+which has 593 friends
+visited count: 632current queue size: 259458
+visiting 18393501
+checking api1
+using api1
+fetching friends ids..
+which has 2099 friends
+visited count: 633current queue size: 260457
+visiting 2735591
+checking api1
+using api1
+fetching friends ids..
+which has 3947 friends
+visited count: 634current queue size: 261456
+visiting 371820497
+checking api1
+using api1
+fetching friends ids..
+which has 300 friends
+visited count: 635current queue size: 261755
+visiting 11518842
+checking api1
+using api1
+fetching friends ids..
+which has 29 friends
+visited count: 636current queue size: 261783
+visiting 972651
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2829 friends
+visited count: 637current queue size: 262782
+visiting 749963
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 366 friends
+visited count: 638current queue size: 263147
+visiting 15492359
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 395 friends
+visited count: 639current queue size: 263541
+visiting 93640121
+checking api1
+checking api2
+using api2
+fetching friends ids..
+sleeping...
+visiting 108669948
+checking api1
+using api1
+fetching friends ids..
+which has 382 friends
+visited count: 640current queue size: 263921
+visiting 816653
+checking api1
+using api1
+fetching friends ids..
+which has 732 friends
+visited count: 641current queue size: 264652
+visiting 113425681
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 642current queue size: 264651
+visiting 15443742
+checking api1
+using api1
+fetching friends ids..
+which has 667 friends
+visited count: 643current queue size: 265317
+visiting 16200080
+checking api1
+using api1
+fetching friends ids..
+which has 600 friends
+visited count: 644current queue size: 265916
+visiting 160817572
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 645current queue size: 265915
+visiting 304185486
+checking api1
+using api1
+fetching friends ids..
+which has 394 friends
+visited count: 646current queue size: 266308
+visiting 62513246
+checking api1
+using api1
+fetching friends ids..
+which has 226 friends
+visited count: 647current queue size: 266533
+visiting 337820373
+checking api1
+using api1
+fetching friends ids..
+which has 18 friends
+visited count: 648current queue size: 266550
+visiting 87703796
+checking api1
+using api1
+fetching friends ids..
+which has 82 friends
+visited count: 649current queue size: 266631
+visiting 727813
+checking api1
+using api1
+fetching friends ids..
+which has 325 friends
+visited count: 650current queue size: 266955
+visiting 616163
+checking api1
+using api1
+fetching friends ids..
+which has 93 friends
+visited count: 651current queue size: 267047
+visiting 14224973
+checking api1
+using api1
+fetching friends ids..
+which has 791 friends
+visited count: 652current queue size: 267837
+visiting 594103
+checking api1
+using api1
+fetching friends ids..
+which has 706 friends
+visited count: 653current queue size: 268542
+visiting 668473
+checking api1
+using api1
+fetching friends ids..
+which has 1776 friends
+visited count: 654current queue size: 269541
+visiting 4488
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1519 friends
+visited count: 655current queue size: 270540
+visiting 11848
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2285 friends
+visited count: 656current queue size: 271539
+visiting 46063
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 759 friends
+visited count: 657current queue size: 272297
+visiting 7456262
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 367 friends
+visited count: 658current queue size: 272663
+visiting 295
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2556 friends
+visited count: 659current queue size: 273662
+visiting 5446532
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 269 friends
+visited count: 660current queue size: 273930
+visiting 1081
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 661current queue size: 274929
+visiting 15934340
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 264 friends
+visited count: 662current queue size: 275192
+visiting 14600116
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1588 friends
+visited count: 663current queue size: 276191
+visiting 5702
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1189 friends
+visited count: 664current queue size: 277190
+visiting 13041
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3548 friends
+visited count: 665current queue size: 278189
+visiting 50090898
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 144 friends
+visited count: 666current queue size: 278332
+visiting 44423
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 822 friends
+visited count: 667current queue size: 279153
+visiting 13416712
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 446 friends
+visited count: 668current queue size: 279598
+visiting 808627
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 660 friends
+visited count: 669current queue size: 280257
+visiting 49793
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 706 friends
+visited count: 670current queue size: 280962
+visiting 2384071
+checking api1
+using api1
+fetching friends ids..
+which has 1468 friends
+visited count: 671current queue size: 281961
+visiting 75854417
+checking api1
+using api1
+fetching friends ids..
+which has 520 friends
+visited count: 672current queue size: 282480
+visiting 34197952
+checking api1
+using api1
+fetching friends ids..
+which has 200 friends
+visited count: 673current queue size: 282679
+visiting 18839785
+checking api1
+using api1
+fetching friends ids..
+which has 1229 friends
+visited count: 674current queue size: 283678
+visiting 24705126
+checking api1
+using api1
+fetching friends ids..
+which has 613 friends
+visited count: 675current queue size: 284290
+visiting 79915337
+checking api1
+using api1
+fetching friends ids..
+which has 147 friends
+visited count: 676current queue size: 284436
+visiting 55520719
+checking api1
+using api1
+fetching friends ids..
+which has 542 friends
+visited count: 677current queue size: 284977
+visiting 41898533
+checking api1
+using api1
+fetching friends ids..
+which has 613 friends
+visited count: 678current queue size: 285589
+visiting 53414786
+checking api1
+using api1
+fetching friends ids..
+which has 65 friends
+visited count: 679current queue size: 285653
+visiting 121677709
+checking api1
+using api1
+fetching friends ids..
+which has 83 friends
+visited count: 680current queue size: 285735
+visiting 19895282
+checking api1
+using api1
+fetching friends ids..
+which has 0 friends
+visited count: 681current queue size: 285734
+visiting 227232637
+checking api1
+using api1
+fetching friends ids..
+which has 77 friends
+visited count: 682current queue size: 285810
+visiting 142958042
+checking api1
+using api1
+fetching friends ids..
+which has 112 friends
+visited count: 683current queue size: 285921
+visiting 134418402
+checking api1
+using api1
+fetching friends ids..
+which has 308 friends
+visited count: 684current queue size: 286228
+visiting 111765101
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 43 friends
+visited count: 685current queue size: 286270
+visiting 101452893
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 119 friends
+visited count: 686current queue size: 286388
+visiting 57014554
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 461 friends
+visited count: 687current queue size: 286848
+visiting 783214
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 140 friends
+visited count: 688current queue size: 286987
+visiting 20751449
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 175 friends
+visited count: 689current queue size: 287161
+visiting 46318423
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 447 friends
+visited count: 690current queue size: 287607
+visiting 20
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1661 friends
+visited count: 691current queue size: 288606
+visiting 14162012
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 214 friends
+visited count: 692current queue size: 288819
+visiting 839321
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 403 friends
+visited count: 693current queue size: 289221
+visiting 15076390
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 298 friends
+visited count: 694current queue size: 289518
+visiting 6629912
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 428 friends
+visited count: 695current queue size: 289945
+visiting 165391600
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 51 friends
+visited count: 696current queue size: 289995
+visiting 166739404
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 183 friends
+visited count: 697current queue size: 290177
+visiting 223484260
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 160 friends
+visited count: 698current queue size: 290336
+visiting 73282619
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 50 friends
+visited count: 699current queue size: 290385
+visiting 33868638
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 192 friends
+visited count: 700current queue size: 290576
+visiting 86769741
+checking api1
+using api1
+fetching friends ids..
+which has 447 friends
+visited count: 701current queue size: 291022
+visiting 145620059
+checking api1
+using api1
+fetching friends ids..
+which has 95 friends
+visited count: 702current queue size: 291116
+visiting 953
+checking api1
+using api1
+fetching friends ids..
+which has 306 friends
+visited count: 703current queue size: 291421
+visiting 5848002
+checking api1
+using api1
+fetching friends ids..
+which has 1195 friends
+visited count: 704current queue size: 292420
+visiting 78183820
+checking api1
+using api1
+fetching friends ids..
+which has 842 friends
+visited count: 705current queue size: 293261
+visiting 14411797
+checking api1
+using api1
+fetching friends ids..
+which has 1206 friends
+visited count: 706current queue size: 294260
+visiting 14572992
+checking api1
+using api1
+fetching friends ids..
+which has 227 friends
+visited count: 707current queue size: 294486
+visiting 17218424
+checking api1
+using api1
+fetching friends ids..
+which has 692 friends
+visited count: 708current queue size: 295177
+visiting 1186
+checking api1
+using api1
+fetching friends ids..
+which has 3436 friends
+visited count: 709current queue size: 296176
+visiting 28638677
+checking api1
+using api1
+fetching friends ids..
+which has 1099 friends
+visited count: 710current queue size: 297175
+visiting 14097951
+checking api1
+using api1
+fetching friends ids..
+which has 3512 friends
+visited count: 711current queue size: 298174
+visiting 14417215
+checking api1
+using api1
+fetching friends ids..
+which has 1391 friends
+visited count: 712current queue size: 299173
+visiting 3260518932
+checking api1
+using api1
+fetching friends ids..
+which has 3 friends
+visited count: 713current queue size: 299175
+visiting 61391304
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 714current queue size: 300174
+visiting 1245320090
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 969 friends
+visited count: 715current queue size: 301142
+visiting 18350619
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3760 friends
+visited count: 716current queue size: 302141
+visiting 87299430
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 427 friends
+visited count: 717current queue size: 302567
+visiting 69426451
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 537 friends
+visited count: 718current queue size: 303103
+visiting 11113
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 3314 friends
+visited count: 719current queue size: 304102
+visiting 10755542
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 877 friends
+visited count: 720current queue size: 304978
+visiting 34561199
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1291 friends
+visited count: 721current queue size: 305977
+visiting 3666586997
+checking api1
+checking api2
+using api2
+fetching friends ids..
+sleeping...
+visiting 47746264
+checking api1
+using api1
+fetching friends ids..
+which has 308 friends
+visited count: 722current queue size: 306283
+visiting 24277551
+checking api1
+using api1
+fetching friends ids..
+which has 1765 friends
+visited count: 723current queue size: 307282
+visiting 27629038
+checking api1
+using api1
+fetching friends ids..
+which has 1860 friends
+visited count: 724current queue size: 308281
+visiting 13010422
+checking api1
+using api1
+fetching friends ids..
+which has 2871 friends
+visited count: 725current queue size: 309280
+visiting 29436001
+checking api1
+using api1
+fetching friends ids..
+which has 648 friends
+visited count: 726current queue size: 309927
+visiting 1025247380
+checking api1
+using api1
+fetching friends ids..
+which has 129 friends
+visited count: 727current queue size: 310055
+visiting 14995358
+checking api1
+using api1
+fetching friends ids..
+which has 251 friends
+visited count: 728current queue size: 310305
+visiting 3686713456
+checking api1
+using api1
+fetching friends ids..
+sleeping...
+visiting 19127782
+checking api1
+using api1
+fetching friends ids..
+which has 377 friends
+visited count: 729current queue size: 310680
+visiting 15033360
+checking api1
+using api1
+fetching friends ids..
+which has 1247 friends
+visited count: 730current queue size: 311679
+visiting 29264269
+checking api1
+using api1
+fetching friends ids..
+which has 302 friends
+visited count: 731current queue size: 311980
+visiting 6446742
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 732current queue size: 312979
+visiting 110276487
+checking api1
+using api1
+fetching friends ids..
+which has 447 friends
+visited count: 733current queue size: 313425
+visiting 3428102007
+checking api1
+using api1
+fetching friends ids..
+sleeping...
+visiting 201568456
+checking api1
+using api1
+fetching friends ids..
+which has 196 friends
+visited count: 734current queue size: 313619
+visiting 14157659
+checking api1
+using api1
+fetching friends ids..
+which has 665 friends
+visited count: 735current queue size: 314283
+visiting 14609434
+checking api1
+using api1
+fetching friends ids..
+which has 662 friends
+visited count: 736current queue size: 314944
+visiting 118940076
+checking api1
+using api1
+fetching friends ids..
+which has 294 friends
+visited count: 737current queue size: 315237
+visiting 8798682
+checking api1
+using api1
+fetching friends ids..
+which has 730 friends
+visited count: 738current queue size: 315966
+visiting 126122693
+checking api1
+using api1
+fetching friends ids..
+which has 483 friends
+visited count: 739current queue size: 316448
+visiting 316542734
+checking api1
+using api1
+fetching friends ids..
+which has 740 friends
+visited count: 740current queue size: 317187
+visiting 172760156
+checking api1
+using api1
+fetching friends ids..
+which has 279 friends
+visited count: 741current queue size: 317465
+visiting 17919972
+checking api1
+using api1
+fetching friends ids..
+which has 244 friends
+visited count: 742current queue size: 317708
+visiting 27260086
+checking api1
+using api1
+fetching friends ids..
+which has 5000 friends
+visited count: 743current queue size: 318707
+visiting 381679006
+checking api1
+using api1
+fetching friends ids..
+which has 552 friends
+visited count: 744current queue size: 319258
+visiting 242818718
+checking api1
+using api1
+fetching friends ids..
+which has 817 friends
+visited count: 745current queue size: 320074
+visiting 904954086
+checking api1
+using api1
+fetching friends ids..
+which has 175 friends
+visited count: 746current queue size: 320248
+visiting 193929442
+checking api1
+using api1
+fetching friends ids..
+which has 287 friends
+visited count: 747current queue size: 320534
+visiting 25073877
+checking api1
+using api1
+fetching friends ids..
+which has 44 friends
+visited count: 748current queue size: 320577
+visiting 2795254363
+checking api1
+checking api2
+using api2
+fetching friends ids..
+sleeping...
+visiting 189063554
+checking api1
+using api1
+fetching friends ids..
+sleeping...
+visiting 14749056
+checking api1
+using api1
+fetching friends ids..
+which has 339 friends
+visited count: 749current queue size: 320913
+visiting 2719829002
+checking api1
+using api1
+fetching friends ids..
+which has 74 friends
+visited count: 750current queue size: 320986
+visiting 217158161
+checking api1
+using api1
+fetching friends ids..
+which has 176 friends
+visited count: 751current queue size: 321161
+visiting 15008959
+checking api1
+using api1
+fetching friends ids..
+which has 998 friends
+visited count: 752current queue size: 322158
+visiting 16977640
+checking api1
+using api1
+fetching friends ids..
+which has 866 friends
+visited count: 753current queue size: 323023
+visiting 2363571
+checking api1
+using api1
+fetching friends ids..
+which has 985 friends
+visited count: 754current queue size: 324007
+visiting 28510488
+checking api1
+using api1
+fetching friends ids..
+which has 452 friends
+visited count: 755current queue size: 324458
+visiting 3281956568
+checking api1
+using api1
+fetching friends ids..
+which has 16 friends
+visited count: 756current queue size: 324473
+visiting 54653517
+checking api1
+using api1
+fetching friends ids..
+which has 1296 friends
+visited count: 757current queue size: 325472
+visiting 3274940484
+checking api1
+using api1
+fetching friends ids..
+sleeping...
+visiting 516778814
+checking api1
+using api1
+fetching friends ids..
+which has 232 friends
+visited count: 758current queue size: 325702
+visiting 20418287
+checking api1
+using api1
+fetching friends ids..
+which has 688 friends
+visited count: 759current queue size: 326389
+visiting 2217099931
+checking api1
+using api1
+fetching friends ids..
+which has 3 friends
+visited count: 760current queue size: 326391
+visiting 694673
+checking api1
+using api1
+fetching friends ids..
+which has 601 friends
+visited count: 761current queue size: 326991
+visiting 3006375111
+checking api1
+using api1
+fetching friends ids..
+which has 10 friends
+visited count: 762current queue size: 327000
+visiting 281649695
+checking api1
+using api1
+fetching friends ids..
+which has 658 friends
+visited count: 763current queue size: 327657
+visiting 44466062
+checking api1
+using api1
+fetching friends ids..
+which has 567 friends
+visited count: 764current queue size: 328223
+visiting 132703319
+checking api1
+using api1
+fetching friends ids..
+which has 1011 friends
+visited count: 765current queue size: 329222
+visiting 26966991
+checking api1
+using api1
+fetching friends ids..
+which has 380 friends
+visited count: 766current queue size: 329601
+visiting 157804752
+checking api1
+using api1
+fetching friends ids..
+which has 1000 friends
+visited count: 767current queue size: 330600
+visiting 3196849572
+checking api1
+using api1
+fetching friends ids..
+which has 77 friends
+visited count: 768current queue size: 330676
+visiting 1536791610
+checking api1
+using api1
+fetching friends ids..
+which has 68 friends
+visited count: 769current queue size: 330743
+visiting 14256647
+checking api1
+using api1
+fetching friends ids..
+which has 593 friends
+visited count: 770current queue size: 331335
+visiting 163160102
+checking api1
+using api1
+fetching friends ids..
+which has 388 friends
+visited count: 771current queue size: 331722
+visiting 29468105
+checking api1
+using api1
+fetching friends ids..
+which has 642 friends
+visited count: 772current queue size: 332363
+visiting 1582341876
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 167 friends
+visited count: 773current queue size: 332529
+visiting 250175612
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1080 friends
+visited count: 774current queue size: 333528
+visiting 22891211
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 984 friends
+visited count: 775current queue size: 334511
+visiting 30781760
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 849 friends
+visited count: 776current queue size: 335359
+visiting 22557342
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 983 friends
+visited count: 777current queue size: 336341
+visiting 15839499
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 474 friends
+visited count: 778current queue size: 336814
+visiting 286367701
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 433 friends
+visited count: 779current queue size: 337246
+visiting 23126820
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 95 friends
+visited count: 780current queue size: 337340
+visiting 31012078
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 571 friends
+visited count: 781current queue size: 337910
+visiting 14486697
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 930 friends
+visited count: 782current queue size: 338839
+visiting 6805212
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 442 friends
+visited count: 783current queue size: 339280
+visiting 258776272
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 710 friends
+visited count: 784current queue size: 339989
+visiting 14860415
+checking api1
+checking api2
+using api2
+fetching friends ids..
+Rate limit reached. Sleeping for: 529
+sleeping...
+visiting 2139211
+checking api1
+using api1
+fetching friends ids..
+which has 1070 friends
+visited count: 785current queue size: 340987
+visiting 156417821
+checking api1
+using api1
+fetching friends ids..
+which has 807 friends
+visited count: 786current queue size: 341793
+visiting 550644052
+checking api1
+using api1
+fetching friends ids..
+which has 199 friends
+visited count: 787current queue size: 341991
+visiting 9213492
+checking api1
+using api1
+fetching friends ids..
+which has 811 friends
+visited count: 788current queue size: 342801
+visiting 7407282
+checking api1
+using api1
+fetching friends ids..
+which has 911 friends
+visited count: 789current queue size: 343711
+visiting 128700476
+checking api1
+using api1
+fetching friends ids..
+which has 239 friends
+visited count: 790current queue size: 343949
+visiting 18205202
+checking api1
+using api1
+fetching friends ids..
+which has 434 friends
+visited count: 791current queue size: 344382
+visiting 1746361
+checking api1
+using api1
+fetching friends ids..
+which has 822 friends
+visited count: 792current queue size: 345203
+visiting 78194111
+checking api1
+using api1
+fetching friends ids..
+which has 995 friends
+visited count: 793current queue size: 346197
+visiting 82789484
+checking api1
+using api1
+fetching friends ids..
+which has 666 friends
+visited count: 794current queue size: 346862
+visiting 96419510
+checking api1
+using api1
+fetching friends ids..
+which has 880 friends
+visited count: 795current queue size: 347741
+visiting 3096603629
+checking api1
+using api1
+fetching friends ids..
+which has 64 friends
+visited count: 796current queue size: 347804
+visiting 448476934
+checking api1
+using api1
+fetching friends ids..
+which has 137 friends
+visited count: 797current queue size: 347940
+visiting 14484577
+checking api1
+using api1
+fetching friends ids..
+which has 401 friends
+visited count: 798current queue size: 348340
+visiting 17495892
+checking api1
+using api1
+fetching friends ids..
+which has 263 friends
+visited count: 799current queue size: 348602
+visiting 989489610
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 356 friends
+visited count: 800current queue size: 348957
+visiting 169686021
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1 friends
+visited count: 801current queue size: 348957
+visiting 198873588
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 469 friends
+visited count: 802current queue size: 349425
+visiting 17400516
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 224 friends
+visited count: 803current queue size: 349648
+visiting 1692881
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 449 friends
+visited count: 804current queue size: 350096
+visiting 100347950
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 635 friends
+visited count: 805current queue size: 350730
+visiting 51263592
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2086 friends
+visited count: 806current queue size: 351729
+visiting 63882806
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 358 friends
+visited count: 807current queue size: 352086
+visiting 978
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1926 friends
+visited count: 808current queue size: 353085
+visiting 14454645
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 954 friends
+visited count: 809current queue size: 354038
+visiting 9544202
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 664 friends
+visited count: 810current queue size: 354701
+visiting 23539291
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1072 friends
+visited count: 811current queue size: 355700
+visiting 17029883
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 523 friends
+visited count: 812current queue size: 356222
+visiting 15416112
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 428 friends
+visited count: 813current queue size: 356649
+visiting 14135641
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 834 friends
+visited count: 814current queue size: 357482
+visiting 260119420
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 2000 friends
+visited count: 815current queue size: 358481
+visiting 2305692510
+checking api1
+using api1
+fetching friends ids..
+which has 419 friends
+visited count: 816current queue size: 358899
+visiting 17896113
+checking api1
+using api1
+fetching friends ids..
+which has 725 friends
+visited count: 817current queue size: 359623
+visiting 1383966032
+checking api1
+using api1
+fetching friends ids..
+which has 9 friends
+visited count: 818current queue size: 359631
+visiting 69997962
+checking api1
+using api1
+fetching friends ids..
+which has 334 friends
+visited count: 819current queue size: 359964
+visiting 20
+checking api1
+using api1
+fetching friends ids..
+which has 1661 friends
+visited count: 820current queue size: 360963
+visiting 8962882
+checking api1
+using api1
+fetching friends ids..
+which has 1236 friends
+visited count: 821current queue size: 361962
+visiting 2663321713
+checking api1
+using api1
+fetching friends ids..
+which has 12 friends
+visited count: 822current queue size: 361973
+visiting 14168561
+checking api1
+using api1
+fetching friends ids..
+which has 311 friends
+visited count: 823current queue size: 362283
+visiting 247393975
+checking api1
+using api1
+fetching friends ids..
+which has 837 friends
+visited count: 824current queue size: 363119
+visiting 264963462
+checking api1
+using api1
+fetching friends ids..
+which has 226 friends
+visited count: 825current queue size: 363344
+visiting 2761869095
+checking api1
+using api1
+fetching friends ids..
+which has 633 friends
+visited count: 826current queue size: 363976
+visiting 16778949
+checking api1
+using api1
+fetching friends ids..
+which has 1107 friends
+visited count: 827current queue size: 364975
+visiting 21586418
+checking api1
+using api1
+fetching friends ids..
+which has 1817 friends
+visited count: 828current queue size: 365974
+visiting 102226744
+checking api1
+using api1
+fetching friends ids..
+which has 403 friends
+visited count: 829current queue size: 366376
+visiting 15259642
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1695 friends
+visited count: 830current queue size: 367375
+visiting 242382715
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 405 friends
+visited count: 831current queue size: 367779
+visiting 8253682
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 845 friends
+visited count: 832current queue size: 368623
+visiting 575999970
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 530 friends
+visited count: 833current queue size: 369152
+visiting 33287494
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 782 friends
+visited count: 834current queue size: 369933
+visiting 610659001
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 402 friends
+visited count: 835current queue size: 370334
+visiting 35809640
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 575 friends
+visited count: 836current queue size: 370908
+visiting 19563477
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 810 friends
+visited count: 837current queue size: 371717
+visiting 78665818
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 627 friends
+visited count: 838current queue size: 372343
+visiting 14795980
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 636 friends
+visited count: 839current queue size: 372978
+visiting 1305940272
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 840current queue size: 373977
+visiting 62798071
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 416 friends
+visited count: 841current queue size: 374392
+visiting 4265731
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1904 friends
+visited count: 842current queue size: 375391
+visiting 19766751
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 2628 friends
+visited count: 843current queue size: 376390
+visiting 16459122
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1152 friends
+visited count: 844current queue size: 377389
+visiting 18337283
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+using api1
+fetching friends ids..
+which has 1077 friends
+visited count: 845current queue size: 378388
+visiting 26565941
+checking api1
+using api1
+fetching friends ids..
+which has 762 friends
+visited count: 846current queue size: 379149
+visiting 246915271
+checking api1
+using api1
+fetching friends ids..
+which has 952 friends
+visited count: 847current queue size: 380100
+visiting 644113
+checking api1
+using api1
+fetching friends ids..
+which has 342 friends
+visited count: 848current queue size: 380441
+visiting 16201775
+checking api1
+using api1
+fetching friends ids..
+which has 601 friends
+visited count: 849current queue size: 381041
+visiting 5510452
+checking api1
+using api1
+fetching friends ids..
+which has 1450 friends
+visited count: 850current queue size: 382040
+visiting 15838676
+checking api1
+using api1
+fetching friends ids..
+which has 973 friends
+visited count: 851current queue size: 383012
+visiting 22655743
+checking api1
+using api1
+fetching friends ids..
+which has 1231 friends
+visited count: 852current queue size: 384011
+visiting 16369797
+checking api1
+using api1
+fetching friends ids..
+which has 1999 friends
+visited count: 853current queue size: 385010
+visiting 1979921
+checking api1
+using api1
+fetching friends ids..
+which has 1730 friends
+visited count: 854current queue size: 386009
+visiting 8475852
+checking api1
+using api1
+fetching friends ids..
+which has 660 friends
+visited count: 855current queue size: 386668
+visiting 58832110
+checking api1
+using api1
+fetching friends ids..
+which has 112 friends
+visited count: 856current queue size: 386779
+visiting 14056365
+checking api1
+using api1
+fetching friends ids..
+which has 505 friends
+visited count: 857current queue size: 387283
+visiting 1337271
+checking api1
+using api1
+fetching friends ids..
+which has 2492 friends
+visited count: 858current queue size: 388282
+visiting 15524875
+checking api1
+using api1
+fetching friends ids..
+which has 1000 friends
+visited count: 859current queue size: 389281
+visiting 35739495
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 974 friends
+visited count: 860current queue size: 390254
+visiting 2646651588
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 13 friends
+visited count: 861current queue size: 390266
+visiting 14167938
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1245 friends
+visited count: 862current queue size: 391265
+visiting 12111772
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 716 friends
+visited count: 863current queue size: 391980
+visiting 2208027565
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 864current queue size: 391979
+visiting 14416798
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 539 friends
+visited count: 865current queue size: 392517
+visiting 107146095
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 5000 friends
+visited count: 866current queue size: 393516
+visiting 416814339
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 365 friends
+visited count: 867current queue size: 393880
+visiting 586
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 896 friends
+visited count: 868current queue size: 394775
+visiting 2424272372
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 309 friends
+visited count: 869current queue size: 395083
+visiting 2669499206
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 114 friends
+visited count: 870current queue size: 395196
+visiting 1610646036
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 30 friends
+visited count: 871current queue size: 395225
+visiting 407933800
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 1225 friends
+visited count: 872current queue size: 396224
+visiting 2048741
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 555 friends
+visited count: 873current queue size: 396778
+visiting 601247231
+checking api1
+checking api2
+using api2
+fetching friends ids..
+which has 0 friends
+visited count: 874current queue size: 396777
+visiting 55854974
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep
+checking api1
+checking api2
+going to sleep

@@ -1,0 +1,4 @@
+Calculating best minimal value for power law fit
+
+Alpha exponent of in degree distribution:  2.23090496139
+Alpha exponent of out degree distribution:  1.84436355593

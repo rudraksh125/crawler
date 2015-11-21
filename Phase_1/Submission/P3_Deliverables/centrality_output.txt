@@ -1,0 +1,34 @@
+node: 605 degree centrality: 0.000947746297987
+node: 297 degree centrality: 0.000947746297987
+node: 692 degree centrality: 0.00093227288904
+node: 401 degree centrality: 0.000912931127857
+node: 134 degree centrality: 0.000881984309963
+node: 2   degree centrality: 0.000847169139833
+node: 645 degree centrality: 0.000789143856283
+node: 61  degree centrality: 0.000754328686153
+node: 1455 degree centrality: 0.000746591981679
+node: 1449 degree centrality: 0.000738855277206
+
+node: 605 eigen vector centrality: 0.0949568832969
+node: 476 eigen vector centrality: 0.0895090023345
+node: 2   eigen vector centrality: 0.0871930497562
+node: 965 eigen vector centrality: 0.085329270286
+node: 692 eigen vector centrality: 0.0844667948151
+node: 134 eigen vector centrality: 0.0817074119267
+node: 1010 eigen vector centrality: 0.0794776967886
+node: 1057 eigen vector centrality: 0.0769263204654
+node: 410 eigen vector centrality: 0.0764927206342
+node: 695 eigen vector centrality: 0.0760859166116
+
+node: 678 page rank centrality: 7.68633161299e-06
+node: 681 page rank centrality: 7.67895651358e-06
+node: 9708 page rank centrality: 7.67426061478e-06
+node: 692 page rank centrality: 7.49327298145e-06
+node: 558 page rank centrality: 7.48894604072e-06
+node: 315 page rank centrality: 7.37854291741e-06
+node: 37  page rank centrality: 7.36479760604e-06
+node: 297 page rank centrality: 7.30043824061e-06
+node: 298 page rank centrality: 7.28012046316e-06
+node: 24419 page rank centrality: 7.24812772123e-06
+
+Process finished with exit code 0
