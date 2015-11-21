@@ -1,2 +1,0 @@
-Local clustering coefficient = 0.067029
-Global clustering coefficient = 0.010442

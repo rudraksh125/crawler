@@ -1,6 +1,0 @@
-Avg.Node In-Degree: 1.862922
-In Degree sequence
-unique in-degrees in graph: 154
-Avg.out Node Degree: 1.862922
-Out Degree sequence
-unique out-degrees in graph: 481
