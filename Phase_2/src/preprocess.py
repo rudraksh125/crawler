@@ -30,6 +30,23 @@ def split_dataset(fileName, file_userid, file_tweets, file_location):
     f_tweets.close()
     f_location.close()
 
+def extract_tags(fileName, f_allhashtags):
+    list_all_hashtags = []
+    with open(fileName) as f:
+        with open(f_allhashtags, "wb") as output:
+            unique_hashtags = set()
+            num_total_hashtags = 0
+            num_total_tweets = 0
+            for line in f:
+                num_total_tweets = num_total_tweets + 1
+                hashtags = extract_hashtags(line)
+                for i in hashtags:
+                    list_all_hashtags.append(i)
+                unique_hashtags.update(hashtags)
+                num_total_hashtags = num_total_hashtags + len(hashtags)
+                output.write("%s\n" % ",".join(hashtags))
+
+            print "Total number of tweets: " + str(num_total_tweets)
 
 def read_tweets(fileName, f_allhashtags, f_uniquetags, fileName_train_hashtag_histogram):
     list_all_hashtags = []
@@ -105,6 +122,18 @@ fileName_train_tweet_unique_hashtags = "../data/f_hashtag_prediction/train_data_
 fileName_train_hashtag_histogram = "../data/f_hashtag_prediction/train_data_histogram_hashtags.txt"
 
 read_tweets(fileName_train_tweets,fileName_train_tweet_all_hashtags,fileName_train_tweet_unique_hashtags,fileName_train_hashtag_histogram )
+
+fileName_test_data = "../data/f_hashtag_prediction/test_data_raw.txt"
+fileName_test_userid = "../data/f_hashtag_prediction/test_data_userid.txt"
+fileName_test_tweets = "../data/f_hashtag_prediction/test_data_tweets.txt"
+fileName_test_location = "../data/f_hashtag_prediction/test_data_location.txt"
+
+split_dataset(fileName_test_data, fileName_test_userid, fileName_test_tweets, fileName_test_location)
+
+fileName_train_tweet_all_hashtags = "../data/f_hashtag_prediction/test_data_all_hashtags.txt"
+
+extract_tags(fileName_test_tweets, fileName_train_tweet_all_hashtags)
+
 
 sys.exit(0)
 

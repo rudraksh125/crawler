@@ -28,6 +28,25 @@ with open("../../data/f_hashtag_prediction/train_data_combined.txt", "a") as out
                     tt = t + " " + tag
                     output_combined_file.write("%s\n" % tt)
 
+text = ""
+
+with open("../../data/f_hashtag_prediction/test_data_tweets_processed.txt", "a") as output_file:
+    with open("../../data/f_hashtag_prediction/test_data_tweets_tagged.txt", "rb") as input_file:
+        for line in input_file:
+            line = " ".join(line.split())
+            words = line.split()
+            processed_words = []
+            processed_hashtags = []
+            if len(words) > 0:
+                for w in words:
+                    if '#' not in w:
+                        if any(tag in w for tag in list_treebank_tags):
+                            processed_words.append(w.split('/')[0].lower())
+                        elif '#' in w or "HT" == w.split('/')[2]:
+                            processed_hashtags.append(w.split('/')[0].lower())
+            t = " ".join(processed_words)
+            output_file.write("%s\n" % t)
+
 
 sys.exit(0)
 
