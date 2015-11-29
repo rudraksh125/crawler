@@ -110,6 +110,7 @@ def histogram_plot(counts):
 # print extract_hashtags(tweet)
 start_time = time.time()
 
+print "processing train data"
 fileName_train_data = "../data/f_hashtag_prediction/train_data_raw.txt"
 fileName_train_userid = "../data/f_hashtag_prediction/train_data_userid.txt"
 fileName_train_tweets = "../data/f_hashtag_prediction/train_data_tweets.txt"
@@ -123,6 +124,7 @@ fileName_train_hashtag_histogram = "../data/f_hashtag_prediction/train_data_hist
 
 read_tweets(fileName_train_tweets,fileName_train_tweet_all_hashtags,fileName_train_tweet_unique_hashtags,fileName_train_hashtag_histogram )
 
+print "processing test data: "
 fileName_test_data = "../data/f_hashtag_prediction/test_data_raw.txt"
 fileName_test_userid = "../data/f_hashtag_prediction/test_data_userid.txt"
 fileName_test_tweets = "../data/f_hashtag_prediction/test_data_tweets.txt"
