@@ -11,7 +11,9 @@ joblib.dump("test","test.o")
 a = joblib.load("test.o")
 print a
 
-
+import itertools
+ab = itertools.chain(['aa','aa'], ['bed'], ['cat'])
+print set(list(ab))
 
 def test():
     truncated_train_svd = joblib.load("truncated_train_svd.o")
@@ -19,7 +21,7 @@ def test():
     row_index = 0
     with open("../data/f_hashtag_prediction/test_data_tweets_processed_2K.txt") as ftest:
         test_set = ftest.read().splitlines()
-        with open("prediction_result_1K.txt","w") as output_prediction:
+        with open("prediction_result_1K_unique.txt","w") as output_prediction:
             with open("../data/f_hashtag_prediction/train_data_all_hashtags.txt") as ftrain:
                 with open("../data/f_hashtag_prediction/test_data_all_hashtags.txt") as ftest:
                     test_set_hashtags = ftest.read().splitlines()
@@ -29,36 +31,22 @@ def test():
                         if row_index > 1000:
                             break
                         print "TEST TWEET (row: " + str(row_index) + ") : " + test_set[row_index]
-                        # cosine = cosine_similarity(smatrix[row_index], tfidf_matrix)
                         cosine = cosine_similarity(truncated_test_svd[row_index], truncated_train_svd)
                         m = max(cosine[0])
-                        # print m
                         mindex = [i for i, j in enumerate(cosine[0]) if j == m]
-                        # print mindex
-                        # print "most similar tweets from training: "
-                        # for i in mindex:
-                        #     print train_set[i]
-                        # num_line = 0
-                        # test_num_line = 0
                         train_tags = set()
-                        test_tags = set()  # for line in ftrain:
+                        test_tags = set()
                         for num_line in mindex:
-                            # print "train hashtags (line_num: " + str(num_line) + "): " + line
-                            train_tags.add(train_set_hashtags[num_line])
-                            # for l in ftest:
-                            #     if test_num_line == row_index:
-                            #         # print "test set hashtags: " + l
-                        test_tags.add(test_set_hashtags[row_index])
-                        #             break
-                        #         test_num_line += 1
-                        # num_line += 1
+                            train_tags.update(train_set_hashtags[num_line].split(","))
+                        test_tags.update(test_set_hashtags[row_index].split(","))
 
-
+                        utr = set(list(itertools.chain(train_tags)))
+                        ut = set(list(itertools.chain(test_tags)))
                         test_tweet = "TEST TWEET (row: " + str(row_index) + ") : " + str(test_set[row_index])
-                        print "TRAIN TAGS: " + str(train_tags)
-                        print "TEST TAGS:" + str(test_tags)
+                        print "TRAIN TAGS: " + str(utr)
+                        print "TEST TAGS:" + str(ut)
                         print "*****"
-                        output_prediction.write("*****\n"+test_tweet +"\n" + "TRAIN TAGS: " + str(train_tags) + "\n" + "TEST TAGS:" + str(test_tags) + "\n" + "*****")
+                        output_prediction.write("*****\n"+test_tweet +"\n" + "TRAIN TAGS: " + str(utr) + "\n" + "TEST TAGS:" + str(ut) + "\n" + "*****")
 
                         row_index += 1
 
