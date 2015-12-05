@@ -18,10 +18,45 @@ print set(list(ab))
 def test():
     truncated_train_svd = joblib.load("truncated_train_svd.o")
     truncated_test_svd = joblib.load("truncated_test_svd.o")
+    row_index = 1001
+    with open("../data/f_hashtag_prediction/test_data_tweets_processed_2K.txt") as ftest:
+        test_set = ftest.read().splitlines()
+        with open("prediction_result_2K_unique.txt","w") as output_prediction:
+            with open("../data/f_hashtag_prediction/train_data_all_hashtags.txt") as ftrain:
+                with open("../data/f_hashtag_prediction/test_data_all_hashtags.txt") as ftest:
+                    test_set_hashtags = ftest.read().splitlines()
+                    train_set_hashtags = ftrain.read().splitlines()
+                    begin_index = 1001
+                    for row in truncated_test_svd[begin_index:]:
+                        if row_index > 2000:
+                            break
+                        print "TEST TWEET (row: " + str(row_index) + ") : " + test_set[row_index]
+                        cosine = cosine_similarity(truncated_test_svd[row_index], truncated_train_svd)
+                        m = max(cosine[0])
+                        mindex = [i for i, j in enumerate(cosine[0]) if j == m]
+                        train_tags = set()
+                        test_tags = set()
+                        for num_line in mindex:
+                            train_tags.update(train_set_hashtags[num_line].split(","))
+                        test_tags.update(test_set_hashtags[row_index].split(","))
+
+                        utr = set(list(itertools.chain(train_tags)))
+                        ut = set(list(itertools.chain(test_tags)))
+                        test_tweet = "TEST TWEET (row: " + str(row_index) + ") : " + str(test_set[row_index])
+                        print "TRAIN TAGS: " + str(utr)
+                        print "TEST TAGS:" + str(ut)
+                        print "*****"
+                        output_prediction.write("*****\n"+test_tweet +"\n" + "TRAIN TAGS: " + str(utr) + "\n" + "TEST TAGS:" + str(ut) + "\n" + "*****")
+
+                        row_index += 1
+
+def retest(trainsvd):
+    truncated_train_svd = joblib.load("truncated_train_svd_" + str(trainsvd)+".o")
+    truncated_test_svd = joblib.load("truncated_test_svd_" + str(trainsvd)+".o")
     row_index = 0
     with open("../data/f_hashtag_prediction/test_data_tweets_processed_2K.txt") as ftest:
         test_set = ftest.read().splitlines()
-        with open("prediction_result_1K_unique.txt","w") as output_prediction:
+        with open("prediction_result_1K_unique_"+ str(trainsvd)+".txt","w") as output_prediction:
             with open("../data/f_hashtag_prediction/train_data_all_hashtags.txt") as ftrain:
                 with open("../data/f_hashtag_prediction/test_data_all_hashtags.txt") as ftest:
                     test_set_hashtags = ftest.read().splitlines()
@@ -49,6 +84,21 @@ def test():
                         output_prediction.write("*****\n"+test_tweet +"\n" + "TRAIN TAGS: " + str(utr) + "\n" + "TEST TAGS:" + str(ut) + "\n" + "*****")
 
                         row_index += 1
+
+def retrain(svdcomp):
+            smatrix = joblib.load("test_tfidf_matrix.o")
+            tfidf_matrix = joblib.load("train_tfidf_matrix.o")
+
+            svd = TruncatedSVD(n_components=svdcomp, random_state=42)
+            svd.fit(tfidf_matrix)
+            truncated_train_svd = svd.transform(tfidf_matrix)
+            truncated_test_svd = svd.transform(smatrix)
+
+            print truncated_train_svd.shape
+            print truncated_test_svd.shape
+
+            joblib.dump(truncated_train_svd, "truncated_train_svd_" + str(svdcomp)+".o")
+            joblib.dump(truncated_test_svd, "truncated_test_svd_" + str(svdcomp)+".o")
 
 def train():
     with open("../data/f_hashtag_prediction/train_data_tweets_processed_0_to_500K.txt") as ftrain:
@@ -127,5 +177,14 @@ def train():
         #             print "TEST TAGS:" + str(test_tags)
         #             print "*****************"
 
-test()
+# test()
+# retrain(100)
+# retrain(250)
+# retrain(750)
+# retrain(1000)
+retest(100)
+retest(250)
+retest(750)
+retest(1000)
+
 print("--- %s seconds ---" % (time.time() - start_time))
