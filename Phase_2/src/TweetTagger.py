@@ -5,6 +5,7 @@ import os
 import sys
 
 list_treebank_tags = ["JJ","JJR", "JJS", "NN", "NNS", "NNPS", "RB", "RBR", "RBS", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ", "USR" ]
+# list_treebank_tags = ["NN", "NNS", "NNPS"]
 print os.getcwd()
 text = ""
 with open("../../data/f_hashtag_prediction/train_data_combined_20K_to_500K.txt", "a") as output_combined_file:
@@ -30,22 +31,22 @@ with open("../../data/f_hashtag_prediction/train_data_combined_20K_to_500K.txt",
 
 text = ""
 
-# with open("../../data/f_hashtag_prediction/test_data_tweets_processed_2K.txt", "a") as output_file:
-#     with open("../../data/f_hashtag_prediction/test_data_tweets_tagged_2K.txt", "rb") as input_file:
-#         for line in input_file:
-#             line = " ".join(line.split())
-#             words = line.split()
-#             processed_words = []
-#             processed_hashtags = []
-#             if len(words) > 0:
-#                 for w in words:
-#                     if '#' not in w:
-#                         if any(tag in w for tag in list_treebank_tags):
-#                             processed_words.append(w.split('/')[0].lower())
-#                         elif '#' in w or "HT" == w.split('/')[2]:
-#                             processed_hashtags.append(w.split('/')[0].lower())
-#             t = " ".join(processed_words)
-#             output_file.write("%s\n" % t)
+with open("../../data/f_hashtag_prediction/test_data_tagged_processed_manual.txt", "a") as output_file:
+    with open("../../data/f_hashtag_prediction/test_data_tagged_report_manual.txt", "rb") as input_file:
+        for line in input_file:
+            line = " ".join(line.split())
+            words = line.split()
+            processed_words = []
+            processed_hashtags = []
+            if len(words) > 0:
+                for w in words:
+                    if '#' not in w:
+                        if any(tag in w for tag in list_treebank_tags):
+                            processed_words.append(w.split('/')[0].lower())
+                        elif '#' in w or "HT" == w.split('/')[2]:
+                            processed_hashtags.append(w.split('/')[0].lower())
+            t = " ".join(processed_words)
+            output_file.write("%s\n" % t)
 
 
 sys.exit(0)

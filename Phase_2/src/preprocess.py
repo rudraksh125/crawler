@@ -23,7 +23,7 @@ def split_dataset(fileName, file_userid, file_tweets, file_location):
             tweet = words[1:len(words)-2]
             location = words[len(words)-2:]
             f_userid.write("%s\n" % userid)
-            f_tweets.write("%s\n" % " ".join(tweet))
+            f_tweets.write("%s\r\n" % " ".join(tweet))
             f_location.write("%s\n" % " ".join(location))
 
     f_userid.close()
@@ -88,43 +88,30 @@ def histogram_plot(counts):
     plt.ylabel('Frequency')
     plt.title('Word Frequency Chart')
     plt.legend()
-
-#     # Label the raw counts and the percentages below the x-axis...
-#     bin_centers = 0.5 * np.diff(bins) + bins[:-1]
-#     for count, x in zip(counts, bin_centers):
-#         #Label the raw counts
-#         ax.annotate(str(count), xy=(x, 0), xycoords=('data', 'axes fraction'),
-#         xytext=(0, -18), textcoords='offset points', va='top', ha='center')
-#
-#     # Label the percentages
-#     percent = '%0.0f%%' % (100 * float(count) / counts.sum())
-#     ax.annotate(percent, xy=(x, 0), xycoords=('data', 'axes fraction'),
-#         xytext=(0, -32), textcoords='offset points', va='top', ha='center')
-#
-#
-# #   Give ourselves some more room at the bottom of the plot
-#     plt.subplots_adjust(bottom=0.15)
     plt.show()
+    print ""
+
 #main
 # tweet = "111648679	ALL TEARGAS IN ONE PLACE! http://t.co/RIgMZ5B2 #1staid4 #Egypt #Syria #Libya #Yemen #Bahrain #Firstaid #Homs #Sudan #Tunisia RT *	0	0"
 # print extract_hashtags(tweet)
 start_time = time.time()
 
 print "processing train data"
-fileName_train_data = "../data/f_hashtag_prediction/train_data_raw.txt"
-fileName_train_userid = "../data/f_hashtag_prediction/train_data_userid.txt"
-fileName_train_tweets = "../data/f_hashtag_prediction/train_data_tweets.txt"
-fileName_train_location = "../data/f_hashtag_prediction/train_data_location.txt"
+fileName_train_data = "../data/f_hashtag_prediction/train_data_raw_0_to_520K.txt"
+fileName_train_userid = "../data/f_hashtag_prediction/train_data_userid_0_to_520K.txt"
+fileName_train_tweets = "../data/f_hashtag_prediction/train_data_tweets_0_to_520K.txt"
+fileName_train_location = "../data/f_hashtag_prediction/train_data_location_0_to_520K.txt"
 
 split_dataset(fileName_train_data, fileName_train_userid, fileName_train_tweets, fileName_train_location)
 
-fileName_train_tweet_all_hashtags = "../data/f_hashtag_prediction/train_data_all_hashtags.txt"
-fileName_train_tweet_unique_hashtags = "../data/f_hashtag_prediction/train_data_unique_hashtags.txt"
-fileName_train_hashtag_histogram = "../data/f_hashtag_prediction/train_data_histogram_hashtags.txt"
+fileName_train_tweet_all_hashtags = "../data/f_hashtag_prediction/train_data_all_hashtags_0_to_520K.txt"
+fileName_train_tweet_unique_hashtags = "../data/f_hashtag_prediction/train_data_unique_hashtags_0_to_520K.txt"
+fileName_train_hashtag_histogram = "../data/f_hashtag_prediction/train_data_histogram_hashtags_0_to_520K.txt"
 
 read_tweets(fileName_train_tweets,fileName_train_tweet_all_hashtags,fileName_train_tweet_unique_hashtags,fileName_train_hashtag_histogram )
 
 print "processing test data: "
+
 fileName_test_data = "../data/f_hashtag_prediction/test_data_raw.txt"
 fileName_test_userid = "../data/f_hashtag_prediction/test_data_userid.txt"
 fileName_test_tweets = "../data/f_hashtag_prediction/test_data_tweets.txt"
@@ -136,11 +123,10 @@ fileName_train_tweet_all_hashtags = "../data/f_hashtag_prediction/test_data_all_
 
 extract_tags(fileName_test_tweets, fileName_train_tweet_all_hashtags)
 
-
-sys.exit(0)
-
-with open("hashtag_histogram.txt") as f:
+with open("../data/f_hashtag_prediction/train_data_hashtags_0_to_520K.txt") as f:
     data=[tuple(line) for line in csv.reader(f, delimiter =' ')]
 histogram_plot(data)
 
 print("--- %s seconds ---" % (time.time() - start_time))
+
+sys.exit(0)

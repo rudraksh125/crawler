@@ -100,6 +100,36 @@ def retrain(svdcomp):
             joblib.dump(truncated_train_svd, "truncated_train_svd_" + str(svdcomp)+".o")
             joblib.dump(truncated_test_svd, "truncated_test_svd_" + str(svdcomp)+".o")
 
+def train_manual():
+    with open("../data/f_hashtag_prediction/train_data_tweets_processed_0_to_500K.txt") as ftrain:
+        with open("../data/f_hashtag_prediction/test_data_tagged_processed_manual.txt") as ftest:
+            test_set = ftest.read().splitlines()
+            train_set = ftrain.read().splitlines()
+            # vectorizer = CountVectorizer()
+            vectorizer = TfidfVectorizer(min_df=5, max_df=500, max_features=None,
+                                         strip_accents='unicode', analyzer='word', token_pattern=r'\w{1,}',
+                                         ngram_range=(1, 4), use_idf=1, smooth_idf=1, sublinear_tf=1,
+                                         stop_words='english')
+            # vectorizer = TfidfVectorizer()
+            tfidf_matrix = vectorizer.fit_transform(train_set)
+            print tfidf_matrix.shape
+
+            smatrix = vectorizer.transform(test_set)
+            print smatrix.shape
+
+            svd = TruncatedSVD(n_components=500, random_state=42)
+            svd.fit(tfidf_matrix)
+            truncated_train_svd = svd.transform(tfidf_matrix)
+            truncated_test_svd = svd.transform(smatrix)
+
+            print truncated_train_svd.shape
+            print truncated_test_svd.shape
+
+            cosine = cosine_similarity(truncated_test_svd[0], truncated_train_svd)
+            print cosine
+
+        print "TEST SET: "
+
 def train():
     with open("../data/f_hashtag_prediction/train_data_tweets_processed_0_to_500K.txt") as ftrain:
         with open("../data/f_hashtag_prediction/test_data_tweets_processed_2K.txt") as ftest:
@@ -178,13 +208,16 @@ def train():
         #             print "*****************"
 
 # test()
-# retrain(100)
-# retrain(250)
-# retrain(750)
-# retrain(1000)
+retrain(100)
+retrain(250)
+retrain(750)
+retrain(1000)
+retrain(1500)
 retest(100)
 retest(250)
 retest(750)
 retest(1000)
+retest(1500)
+# train_manual()
 
 print("--- %s seconds ---" % (time.time() - start_time))
